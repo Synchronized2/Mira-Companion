@@ -1,0 +1,60 @@
+import { chromium } from '@playwright/test';
+import assert from 'node:assert/strict';
+import { mkdir } from 'node:fs/promises';
+const url = process.env.TEST_URL || 'http://127.0.0.1:5180';
+await mkdir('artifacts', { recursive: true });
+const browser = await chromium.launch({ headless: true, args: ['--autoplay-policy=no-user-gesture-required', '--use-angle=swiftshader', '--enable-unsafe-swiftshader'] });
+const page = await browser.newPage({ viewport: { width: 1440, height: 960 }, deviceScaleFactor: 1 });
+const failures = [];
+page.on('pageerror', error => failures.push(error.message));
+try {
+  await page.goto(url);
+  await page.locator('.avatar[data-ready="true"]').waitFor({ timeout: 60000 });
+  await page.screenshot({ path: 'artifacts/desktop.png', fullPage: true });
+  const pixels = await page.locator('.avatar canvas').evaluate(canvas => {
+    const copy = document.createElement('canvas'); copy.width = canvas.width; copy.height = canvas.height;
+    const context = copy.getContext('2d'); context.drawImage(canvas, 0, 0);
+    const { data } = context.getImageData(0, 0, copy.width, copy.height);
+    let opaque = 0; const colors = new Set();
+    for (let i = 0; i < data.length; i += 64) { if (data[i + 3] > 100) { opaque++; colors.add(`${data[i] >> 4},${data[i + 1] >> 4},${data[i + 2] >> 4}`); } }
+    return { opaque, colors: colors.size };
+  });
+  assert.ok(pixels.opaque > 500 && pixels.colors > 30, JSON.stringify(pixels));
+  await page.mouse.move(800, 280);
+  await page.waitForFunction(() => Number(document.querySelector('.avatar').dataset.gaze) > 0.2);
+  await page.getByRole('button', { name: '微笑', exact: true }).click();
+  await page.getByRole('button', { name: '点头回应', exact: true }).click();
+  await page.getByRole('button', { name: '全身视角', exact: true }).click();
+  await page.waitForTimeout(500);
+  await page.screenshot({ path: 'artifacts/full-body.png' });
+  await page.getByRole('button', { name: '半身视角', exact: true }).click();
+  await page.getByRole('textbox', { name: '聊天消息' }).fill('你好，介绍一下自己');
+  await page.getByRole('button', { name: '发送消息', exact: true }).click();
+  await page.waitForFunction(() => document.querySelector('.character-status')?.textContent === '正在说话', undefined, { timeout: 65000 });
+  const mouths = [];
+  for (let index = 0; index < 16; index++) { mouths.push(Number(await page.locator('.avatar').getAttribute('data-mouth'))); await page.waitForTimeout(100); }
+  assert.ok(Math.max(...mouths) > 0.02, `Mouth not moving: ${mouths}`);
+  await page.screenshot({ path: 'artifacts/speaking.png', fullPage: true });
+  await page.getByRole('button', { name: '停止回复', exact: true }).click();
+  await page.waitForFunction(() => Number(document.querySelector('.avatar').dataset.mouth) < 0.01);
+  await page.getByRole('button', { name: '连接与偏好设置', exact: true }).click();
+  await page.locator('dialog[open]').waitFor();
+  await page.screenshot({ path: 'artifacts/settings.png', fullPage: true });
+  await page.keyboard.press('Escape');
+  await page.getByRole('button', { name: '关闭语音回复', exact: true }).click();
+  await page.getByRole('textbox', { name: '聊天消息' }).fill('今天有点累');
+  await page.getByRole('button', { name: '发送消息', exact: true }).click();
+  await page.waitForFunction(() => document.querySelector('.messages').textContent.includes('我在听。'));
+  await page.getByRole('button', { name: '新对话', exact: true }).click();
+  await page.getByRole('dialog').getByRole('button', { name: '新对话', exact: true }).click();
+  assert.equal(await page.locator('.message').count(), 1);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.waitForTimeout(600);
+  assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), 'Mobile horizontal overflow');
+  await page.screenshot({ path: 'artifacts/mobile.png', fullPage: true });
+  await page.getByRole('textbox', { name: '聊天消息' }).fill('笑一个');
+  await page.getByRole('button', { name: '发送消息', exact: true }).click();
+  await page.waitForFunction(() => document.querySelector('.messages').textContent.includes('分享一下吗？'));
+  assert.deepEqual(failures, []);
+  console.log(JSON.stringify({ ok: true, pixels, mouthRange: [Math.min(...mouths), Math.max(...mouths)], assertions: 'Desktop/mobile render, gaze, gestures, camera, offline chat, Edge-TTS speech, audio-driven lip sync, interruption, settings, new conversation', errors: failures }, null, 2));
+} finally { await browser.close(); }

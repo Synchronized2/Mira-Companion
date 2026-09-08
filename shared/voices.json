@@ -1,0 +1,8 @@
+[
+  { "name": "zh-CN-XiaoxiaoNeural", "label": "晓晓 · 女声", "language": "zh-CN", "description": "自然亲切，适合日常陪伴与聊天（默认）" },
+  { "name": "zh-CN-XiaoyiNeural", "label": "晓伊 · 女声", "language": "zh-CN", "description": "清亮柔和，适合轻松交流" },
+  { "name": "zh-CN-YunxiNeural", "label": "云希 · 男声", "language": "zh-CN", "description": "年轻明朗，适合聊天与讲故事" },
+  { "name": "zh-CN-YunjianNeural", "label": "云健 · 男声", "language": "zh-CN", "description": "浑厚有力，适合叙述与有力度的表达" },
+  { "name": "zh-CN-YunyangNeural", "label": "云扬 · 男声", "language": "zh-CN", "description": "清晰稳重，适合讲解与长文朗读" },
+  { "name": "zh-TW-HsiaoChenNeural", "label": "晓臻 · 女声／台湾普通话", "language": "zh-TW", "description": "柔和舒缓，带台湾口音" }
+]

@@ -1,0 +1,36 @@
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.env
+.env.*
+!.env.example
+artifacts/
+*.log
+*.tsbuildinfo
+
+# Test and tool output
+coverage/
+playwright-report/
+test-results/
+.pytest_cache/
+.cache/
+.vite/
+.eslintcache
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
