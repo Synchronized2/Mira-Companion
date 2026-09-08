@@ -1,0 +1,2761 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "hiyori",
+      "sourceId": "live2d-hiyori",
+      "appearanceFingerprint": "66bd61174eede2c518a0edf630e7e5e85532c376cda3c27f0ab62845ad1ddf2b",
+      "coreFingerprint": "608d62c9a65cf537ac25ca9e710e687dbef98ee0a0575e0ee8e27bfdc446cd5e",
+      "textureFingerprints": [
+        "a7d930d42814d8fb69e787b0aef5b60e5afd52b4d4557551c8a58e5bea3a4bb1",
+        "87fe9ab7db81ab3025e0407229e449233581e00fa92c8e911923bc6c7d98ce84"
+      ]
+    },
+    {
+      "id": "local-001489a0a1a9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/command/model3.json",
+      "appearanceFingerprint": "8a465b1e35dbca87384a9d1d12765cbfae30e23bf99e29396a3fe7bea1112d0e",
+      "coreFingerprint": "ccdd00aeb921f3e6d7a0d52778645ec21326aeb424fc9d29d1b52e53018eb33a",
+      "textureFingerprints": [
+        "4bc7448fa1c496bda4d15a0e9559fe99b8f57335fa24a59207929eefc3ce25d5"
+      ]
+    },
+    {
+      "id": "local-005d99fb5b9a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/g41_2401/destroy/model.json",
+      "appearanceFingerprint": "0872ed7aede6d9c8e0fb82aa9d5ecd8c8f2e6e47932b3b9426e96b66a7e8c8d1",
+      "coreFingerprint": "74209e8f1cda91e1722d67004d26fbf3a6ed1877f1d21b1f6c62b90e5e16703c",
+      "textureFingerprints": [
+        "a16604bce8ea0f3ebd80dd031110781732510991a4c3b83f8f7d4dfbe87987c6"
+      ]
+    },
+    {
+      "id": "local-006e61f0de81",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/shifuku2/shifuku2.model.json",
+      "appearanceFingerprint": "7d647f0b80c3ae7c9721cfec1c26c31059536576da81281a1af8d715ea0d2d7d",
+      "coreFingerprint": "725e114deefa374753e0b02998365892f555513432c2aeb0b80e9e091c8287a4",
+      "textureFingerprints": [
+        "be2dc5957a1b4ac1b28bebc1e8ab3b9c785813950152d7eb427e36106a90347a",
+        "f1244adb492dbfcade5424cad1483c19dfd0edc1bd54151284ffa90dd335c9dc",
+        "d3b9bd89e09a55fa43ea4cae5a55f55198768683e148c3f549cb287b71be574a"
+      ]
+    },
+    {
+      "id": "local-00c9d7630bfd",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/shizuku/shizuku.model.json",
+      "appearanceFingerprint": "615d4ee31aef431412bc1b240087604e54682f12fb3c0d1a9e898b4eaf3c079b",
+      "coreFingerprint": "56addfb6698bff6e2bc10eb0b2a54f72f6c955858a07574deaf6d4d3a6de8782",
+      "textureFingerprints": [
+        "cb52df3b6446e4a97050cbf0e9e37806465ea19c6088e61313710cb8d9b0e30b",
+        "77520e0ab5142684d26056f5e1db3c2818a6029fdae3ba80ef3edf2a26f01feb",
+        "bcb74693673aff40bb2cfd291b9af3354c8c527532f16e75c7610b101eec07ff",
+        "cf5fec0e0313de969adbaa90aa34a727f554629c54ec35ca19a9cb7bc6db7c4d",
+        "1de262a22378c0e7b6ae40b72908cff47921b323d54cf33695ace219a28412d8",
+        "5ff56ae4328935b8d27136d827ee6a4f7fd4ca80761ab845a1e5c61c5a3ffa39"
+      ]
+    },
+    {
+      "id": "local-0167e0df5d0c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/bisimai_2/3712cc44403f6c247db4d7c0edd16016.model3.json",
+      "appearanceFingerprint": "a6817b9e2eb999dc25c5772ead91f52d04967c86a25f76df83f3f96e0bf786bc",
+      "coreFingerprint": "1ee465d64868e1eb3400b3d6033928e2c2e6224b371359997e1519aebc7082ce",
+      "textureFingerprints": [
+        "d95b69a0b9abe5d30e6e9fafe935c57d3eaf09b7d116d0c8fcb693776fe90b79"
+      ]
+    },
+    {
+      "id": "local-017abb82ab1b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/g36c_1202/normal/model.json",
+      "appearanceFingerprint": "596572ab84ef6fdb635b550096d5a1b05d746c75515c174c569d8312ff60dfde",
+      "coreFingerprint": "7ddbdf8ec4a36caf081aa991b4c97372ba4aa06b5e23a98082d999301cda8d3b",
+      "textureFingerprints": [
+        "3e7b10ce88f0f3700a75e7562bdf46c99abd6be5a20e47e68b4d633e51558013"
+      ]
+    },
+    {
+      "id": "local-01ed646a59bf",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.cba-normal.json",
+      "appearanceFingerprint": "a52eb29df556452fdc6e6d1bc2f97b165871765579520eecffa64973b72a4fe1",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "20496eb3f513f80603f79f6451ee0e4e4dc363f5a936361a4fda7c8c61904135",
+        "145899abc0f7810c824731808e3fe292f6e0e8e0d5fd5af1636ff187baf2d1f5",
+        "bb8c30188cd312252e9cd7617a0b6852e1ac4c434b86289a611c935165ac21fa"
+      ]
+    },
+    {
+      "id": "local-02096e690052",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.default.json",
+      "appearanceFingerprint": "d06296c4e8c11b8985f644d254fa9e0147f24550d9520cf25115b9a57ca33b8c",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "305a0336b33fb5babd2bcdae5057a5e7e10a35c4c617c93de91ebf14d61005bc",
+        "0a2ef4d0b01ae3a3c88edbc0d408349e70fc532014b3c333c835bfa30d74d21c",
+        "723a57faaf18b76cf65ff1fa5b4be064da4ed1c8562c1ef98e080d09d2b0a804"
+      ]
+    },
+    {
+      "id": "local-026fe752bb5d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.summer.normal.2.json",
+      "appearanceFingerprint": "a6eba13351004034539311b7101a888ee61c29ba5247db16e2abe36e6ff4624b",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "c8b6608d01ca66433aa1014be1fac9fc97b03ce7fa5231c53700616bdc1deb51",
+        "6083d7e14bf85bc893a877a00287581818c1ff21899760d3278ff60e25827904",
+        "e221081ac5c3a6b41f77d2d9019181bb5805df0eac842e9e3927265328bb4fef"
+      ]
+    },
+    {
+      "id": "local-0327e083152f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.vdays.json",
+      "appearanceFingerprint": "db6bfa425ba37ee39716f25e65d71f9f99938437bf861526ce55ade510b51266",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "c875fa8d555910ec1bb11792217f7669ccf5d4214a666015a5148463283d0ee0",
+        "162bd45ac6f4997a92cf675c90658de6486806f13efecb52704b1c512d0e717c",
+        "c45327daec1de93ee7a82e9f35a4ba4115f06ca0941d873404148aaa5e093ace"
+      ]
+    },
+    {
+      "id": "local-0602def62ec8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/sat8_2601/destroy/model.json",
+      "appearanceFingerprint": "1d6c9132e9089af2155ea4fde7a0a3d696f9fa41b64627d037186efb1fdf6895",
+      "coreFingerprint": "42eaf8fa0180a7c244b89e4b45df409c708221085669dcdd352e478506055777",
+      "textureFingerprints": [
+        "2a1587ea4e4f7ceef560bfb0a2736e93571b51164ede0bfca19b0002916c7dd5"
+      ]
+    },
+    {
+      "id": "local-062d30802d76",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/hibiki/hibiki.model.json",
+      "appearanceFingerprint": "872c65c589d17d090e0ab740a13952dc0ecaa0ed93c73119a1e74147ef966fe0",
+      "coreFingerprint": "f215c63f20f0140e59e665f1adf2943ba6841174c4149693d4c188f12e39a0da",
+      "textureFingerprints": [
+        "5f6ae9aeef94deabb638fc1e2ad3fab43eb408e1095d1d73ee4382ae04cddfdd"
+      ]
+    },
+    {
+      "id": "local-07a4fc0a07a8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/hk416_805/normal/model.json",
+      "appearanceFingerprint": "4a46afebba238eff27ad48bde15145825e2aafcd30b93e2b2ad0835918cd7d6f",
+      "coreFingerprint": "f884e5937ce37879ef052c8d5144b883f93293b1651e425f5b564b912e31930c",
+      "textureFingerprints": [
+        "408bbb43c290602cd940947d2db7c580c140fcd86dee411bc437df366ad75bf4"
+      ]
+    },
+    {
+      "id": "local-07fbbbe67e07",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/wa2000_6/normal/model.json",
+      "appearanceFingerprint": "9c9fa863b2d48b5bb77e4a12035e96bd755f05b766e7da8301626b2b7c30b758",
+      "coreFingerprint": "dcdc9efffa02c376547befb28d788bc8b77e0e85f67bfd32530c65f844e8d398",
+      "textureFingerprints": [
+        "d6f644f6602b528752e22f857d1caf81643531af22ee5db59617a81f81b4a99a"
+      ]
+    },
+    {
+      "id": "local-089902b24556",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/vector_1901/normal/model.json",
+      "appearanceFingerprint": "38764891619aa62481d640f2187b9ef5bd3d19bea4432e249a2b2fe9db66e789",
+      "coreFingerprint": "1c70d2f3f940d8de1e8e29eaf9b99c83d3d969dd9f584e72dfbcf2aa128b06d7",
+      "textureFingerprints": [
+        "db46695626003280eba3afc38ade33656ea15c3e98365c1f39a0d161b5bdc465"
+      ]
+    },
+    {
+      "id": "local-08e25ef9dbeb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/huangjiafangzhou_3/huangjiafangzhou_3.model3.json",
+      "appearanceFingerprint": "e42ac15da209972e434aa9757a45a05ca12bcac75ec5316c347d0da694194ae1",
+      "coreFingerprint": "684fce8666e348b443242cdc97528afa20b49793671e8db58361922bcc509734",
+      "textureFingerprints": [
+        "9fdb02896c50557332b2a6116c8c32c3c083525733c12c9c370599d94a97eb8a"
+      ]
+    },
+    {
+      "id": "local-0d72a7046dfc",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/taiyuan_2/taiyuan_2.model3.json",
+      "appearanceFingerprint": "0df6b4e71381ab92eb7e3840d218416b7fb5b1391ecffdd06ad0b144f61f7263",
+      "coreFingerprint": "91b926063fe916763bcdb54f28be26628f74158cd3e483f70eedc58074ebcec0",
+      "textureFingerprints": [
+        "ed155a92f8a41dd444150c8d2048f14a877495b57b51fcc4637ba23a353a8076",
+        "87442581b159943fed73c336d5b03a4e3a77ad16f040908d9fd5963c487df123"
+      ]
+    },
+    {
+      "id": "local-0db364be7671",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepnep/index.json",
+      "appearanceFingerprint": "d201393c50c6f2cdd85b5ce9b7c599bc3eff300fd9a077d104385161918cc162",
+      "coreFingerprint": "b473e12dcf8644d003f6541d4250d20a46d3e72013225493c9ead9bf35b085c1",
+      "textureFingerprints": [
+        "dec289a87b18416499b1538b93a39b590f0c50e7967b46366a6d83332bf63505",
+        "3a0102f8de309ded88fae7f07a647746510707a52aa089585d18edb58fd81590",
+        "33657f49e2e411119a5234922f35a9ba04794dce0ab4fc38bd74aec93236dba4"
+      ]
+    },
+    {
+      "id": "local-0e6f0b5dd556",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/kelifulan_3/kelifulan_3.model3.json",
+      "appearanceFingerprint": "9171b3531d14c28da1ddf2b48fa5fd82e85633999163baca2e31702888a848b0",
+      "coreFingerprint": "f7710aeffed1124eec57bf9ef2ed4561de07fc3476d76dfe8d9f25ed114d2d64",
+      "textureFingerprints": [
+        "fe7ba7d5808dbad4905d1d18b7bda0f3a52864ae469b3194542ecd0fc977b545"
+      ]
+    },
+    {
+      "id": "local-14acbf6e0049",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/golden/model2.json",
+      "appearanceFingerprint": "d14eb3ffd1147e8a88ff526068a23c83c7be29a4048e23a59dbadfa9a084fb63",
+      "coreFingerprint": "ecafe309d2834c6df9049cca156d298e46817e622571f5ed29c3884e282e8234",
+      "textureFingerprints": [
+        "6da35028a95949432139a45d39281416a983e5e0a8f30873454c0975fa9465e5"
+      ]
+    },
+    {
+      "id": "local-14f92ef26a9b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/m1928a1_1501/normal/model.json",
+      "appearanceFingerprint": "5cca6d574f74e079a84a42259bcfa9563589f48c721e691f32c8c6d9e7245c17",
+      "coreFingerprint": "165c188866e518281a56e0011830d5eb1be39486a9f6066ad01e0b35714bfc99",
+      "textureFingerprints": [
+        "7c6db9880f7d1985baabb07249b977361e47afc359d9664eb389e5cccad473bb"
+      ]
+    },
+    {
+      "id": "local-17577ba3484b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/kurumi/model.json",
+      "appearanceFingerprint": "bd815c134bdd0caecd97c129dbcf8e23c871b925f565afbbd9cdb237f725c6b9",
+      "coreFingerprint": "f73a966b9f73e0a6989c28e0e737f7bade0830fba0e5975b8f24e3d2c9fbbb0a",
+      "textureFingerprints": [
+        "ddeb3375dd90dadec121ea619aead59e384721a91e85a8988ffcf2547eb3250d",
+        "f99fb1fe487bf85bf38ee2a21e31bd9aebc2e69d0cf134f8af7f2c7c6730723e",
+        "6850b3de86df48b1339ad9cf627decd370c47fc79998d28ad4ada6e4a6ba4f8d"
+      ]
+    },
+    {
+      "id": "local-17e94bc9ad94",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/sakura/model.json",
+      "appearanceFingerprint": "38a7221dfd3652ae19240784bb34c333e8d6e7c7b632c47926c4a8feff0065a1",
+      "coreFingerprint": "db2233982f5981af903c2d3fb8c689651c61fbea434a99d52dde209a278d13e4",
+      "textureFingerprints": [
+        "537358b11bf93d8bc891ce6baa18f6aab5ce0f7a0991bf9b0992c60bc9f5e500"
+      ]
+    },
+    {
+      "id": "local-1992a3ccd093",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/sagiri/sagiri.model.json",
+      "appearanceFingerprint": "bec1059389ef90d0240a3b59e65f8928830a4c0db4409fd4fa731d31538e43e7",
+      "coreFingerprint": "0ad965939d5c2a73b4dbf3598030608f32cf81d5466b52c833d7630c34d07472",
+      "textureFingerprints": [
+        "549141480911bf8e5dde52483c97f292cdead1273479b9ddf27e0922fdf21d38",
+        "8be5358691852730ac27ecf2a272317b4fe9a0f02773acea408be6b29419e56c"
+      ]
+    },
+    {
+      "id": "local-19b5ddd5c820",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/mikoto/mikoto.model.json",
+      "appearanceFingerprint": "ee04c1a02b131b3fd46ed73c12690d605f6c2028204dca71a9faff2bdab5864b",
+      "coreFingerprint": "df9dbe933597f21d7cfdd708bfdcb5596955ff3916694f0ab0dfbdfb275a047e",
+      "textureFingerprints": [
+        "46ed325c48456a9bda43a78195f0b335ae307c6000c4a55c6cb48d0a59cf796c",
+        "ddb9b57e3f81ab0722f81f5160323bbdeb80da7d0111a5ed3aa62867ee57c19e"
+      ]
+    },
+    {
+      "id": "local-1a1af5bb0ecb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/welrod_1401/normal/model.json",
+      "appearanceFingerprint": "e04abf12ff89907a7f56ba3b4f220047a5cbc9442175b972f170bf661515bf2a",
+      "coreFingerprint": "d09908f6eccc1b7c4b172f43a8df7d8ab6c12c5ecb875f880f57bac20420bbee",
+      "textureFingerprints": [
+        "cd67d19ab7baad2d6c893e580323a5f53c59505295cd7f0bde0e5736b2c4a168"
+      ]
+    },
+    {
+      "id": "local-1cc8e92d63ca",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2016.xmas.2.json",
+      "appearanceFingerprint": "beba53505b480047ab3d280f885751f6d7b216cf6bd1337949974f3af7d318ec",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "dd6fc691de022fc002d40f12cf97515660f9580c19931f15f29f1c113b651e2c",
+        "2e5d688cebd2128b0350d25f0a3ad4b79f7791e81dbbfdfc0227fd665c4c0ed5",
+        "b1ca485744ffa3fd4e1d64313e3ce08fad06e7b4a55f05a0988339583b92c288"
+      ]
+    },
+    {
+      "id": "local-1d168ab09c1d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/neptune_classic/index.json",
+      "appearanceFingerprint": "f58a86be5a494446e90ebb1ce1bff3c03e5fc67264732a995b574e0a5e5cc806",
+      "coreFingerprint": "cdc08b3dee09cca5515d15c278b2a2b1eb0dc7dcdb4390f8ac44cccbfce1ce87",
+      "textureFingerprints": [
+        "dec289a87b18416499b1538b93a39b590f0c50e7967b46366a6d83332bf63505",
+        "2403cc18eb853f5743a9d731804ed98130ca87c5d7bf718603159dbda5bf9567",
+        "48e5ffbf7bead8de3c62c8446f4377871283cdadc7d0472d76db535f91b9e15d"
+      ]
+    },
+    {
+      "id": "local-1d4e47ba8e93",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/88type_1809/destroy/model.json",
+      "appearanceFingerprint": "eec328fdace1eb862fd981c0ca3eda1294e69a0548ba4921a6a7c0f5ea6a0b33",
+      "coreFingerprint": "e47cca202d89ce31efca8a0675236f26e9a907048d4da84e68f176a078f0e54b",
+      "textureFingerprints": [
+        "bd5c6fddc859d3540501293d580fe0ea569dc5eea29feee5e5bf755bde06cd41"
+      ]
+    },
+    {
+      "id": "local-1dbfc5c73827",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.tomo-bukatsu.high.json",
+      "appearanceFingerprint": "c58a11859916eea7eae8acd322018e71883272ce46a8e1f12a83915ff6558b48",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "af434aa0461ea3556f45163a757685e9dd741895f378cf480399929c9ef19c37",
+        "69984e297591567e0e0dd842392d62afba28ccc8dbf9e3b2e7bf99456a0c50ee",
+        "4feaa31c54be229c215925c7b5102808514c95abc415dc258e864ef9be20161e"
+      ]
+    },
+    {
+      "id": "local-2330203aee3c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/stl/stl.model.json",
+      "appearanceFingerprint": "294697a72f87f927f9991f148197f96e680c6ccb3c129d1364df6eb252989d1e",
+      "coreFingerprint": "1fc2e2a1c2ce28bfd20df3ff4ef9ec03fc1a0e674f17c2e12b6aa60c5db01c76",
+      "textureFingerprints": [
+        "483c901dc8bc5ec5fccc59da920b6a288264ceb071f92711465e6c310d234dc1",
+        "6ed2509b63e4898fdc77d01b9a6f6de3b9b43f82be5cda4a66ba0207ad30c88e"
+      ]
+    },
+    {
+      "id": "local-23d4a69218d5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/z46_2/z46_2.model3.json",
+      "appearanceFingerprint": "d34f2a67ebb861c44b63ee977306af10877277c392f1e6faefa1b8e7e048f58f",
+      "coreFingerprint": "9050ebe420ebe14e0225f49005c86df16c5991a49b85efde31f2f2cca5b7f190",
+      "textureFingerprints": [
+        "d6d7bea9671bc923d5747843f4618c61ac8fa564af5d48fb572b2e7d8d7bc210",
+        "e8fdf3f1a88c2e443a60207b6ae13d32116f45818b5a785090e724249ea9b9a3"
+      ]
+    },
+    {
+      "id": "local-25e537898e6d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/wa2000_6/destroy/model.json",
+      "appearanceFingerprint": "dea6ac48644e028d0736132ce0950bec3c5101328da785d763f7abe81e7174ae",
+      "coreFingerprint": "5aaa57a74f3c780c5469b2bb49bfa07a580f6294aec1aa6a245d5d62df8a26a8",
+      "textureFingerprints": [
+        "9c23e5daaa9c3474ccbc88e3bf31fd2a4cd9467e3b95f8cd3af64613c86dd588"
+      ]
+    },
+    {
+      "id": "local-28703432e682",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.summer.normal.2.json",
+      "appearanceFingerprint": "9acae2cb7adc610aac84b65f15af725280ee5d9ae7b78583f5d5b115a8cdfe04",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "f1a2f9dca91cdb62f87e7aee2224e1616a8116a45de14a6598945bdba5527dc0",
+        "1840bf09b07acef15abcbbd04cbd0bb742f06214186baf0acf132c1b9ae0f4bc",
+        "bba9d493956227525fad50e429fb766e89893b9b37980584ed4e3523c473926c"
+      ]
+    },
+    {
+      "id": "local-28bef56617ad",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/uiharu/uiharu.model.json",
+      "appearanceFingerprint": "899e0e685af13a33ff957b387f35041f12e05886a152659479428c05c6e7ab46",
+      "coreFingerprint": "b929d3e37a1ad40ed1d92ad8edf905887418ffb07e98378c2ecb3a037dbe7782",
+      "textureFingerprints": [
+        "3d0f78df46bc8eb34adb06a836ee74d10edb25135aa0a8bd080a37ede5f0d63c",
+        "b43f6a935ddbb97f107257cafa492e53301113823713fc4a7663552f1554e84b"
+      ]
+    },
+    {
+      "id": "local-29824b1283c5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/vector_1901/destroy/model.json",
+      "appearanceFingerprint": "1b77f591bf0fa8e604bcaee0f01248d411a02df43bfce42e020011e1d8a6284e",
+      "coreFingerprint": "8400b1b586ae9fad247b61699b092c5409fee23c8cb2d32a8473d09c7b066697",
+      "textureFingerprints": [
+        "9da7239502e0e3374b6caceb9e415b3d1d423a62c83055ee60baeee53241a5b0"
+      ]
+    },
+    {
+      "id": "local-29ba1afcca6a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/lingbo/lingbo.model3.json",
+      "appearanceFingerprint": "e083a6cb17b9790af0d027ca71d4932246f4c587d5315c03b5efccf3e961dbf3",
+      "coreFingerprint": "daeca523e792450f2ad5820d7395f9967034df1563c3617e27943a7a977ddb35",
+      "textureFingerprints": [
+        "b45f66e40c2c4159acea189efc826e6c7f7cab132e88253870cfa171b07b3af7",
+        "f0b66153cd6807c03c60e92b2f909181ca19d0983ca791c6f5dd1e503fc4e998",
+        "8f8bf1b596a6814bf2b4388c477f51f35bd0c02b1d90e1af1c91d168b62b70a7",
+        "467a7a72349ae7139cf8639b53c84095984d46a3b8aad2bb6b3e67d1a5326c90"
+      ]
+    },
+    {
+      "id": "local-2a1230ad910a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepswim/index.json",
+      "appearanceFingerprint": "4013fa7a0a4cfcca8776e2c297a119141eac12732b0684ae928bd313e6caf00c",
+      "coreFingerprint": "9f65f5344ee3427c07e675be0d72b7439925b4bc84e3f153a8feafb7f080382d",
+      "textureFingerprints": [
+        "dec289a87b18416499b1538b93a39b590f0c50e7967b46366a6d83332bf63505",
+        "3a0102f8de309ded88fae7f07a647746510707a52aa089585d18edb58fd81590",
+        "4222b63ea113abd2c35eabac3e4f2ee2d17e2de0f18eea2f6b306d1926eceaa4"
+      ]
+    },
+    {
+      "id": "local-2ac50cfe70ba",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/shield/model3.json",
+      "appearanceFingerprint": "a5b8922edfa561799d717747ee11c05f5c6e9c1280727b2bd1be320961f6883d",
+      "coreFingerprint": "0b2165c905f386cdd69e57217bdfa61670462070d83bd9ee8ab0d812210ea22b",
+      "textureFingerprints": [
+        "a9ba68e1995c6fc9e5404f371d2df43cf00a5020ed5e5fca65d2fa0e789a2cf3"
+      ]
+    },
+    {
+      "id": "local-2f7bbe3c2e8c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.summer.super.2.json",
+      "appearanceFingerprint": "6f8b9967c4275514bc5909da75d443e5730cbcc9101e848cb7243e15a549d67c",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "47fa394d86d7326a4f5f2561a9cba7e35835270eefa890755e4c92de35b3df76",
+        "2c7fa214a2e2a9b077e9da47dee22fd80750ffd3bc948ccd11c511c48287629b",
+        "e221081ac5c3a6b41f77d2d9019181bb5805df0eac842e9e3927265328bb4fef"
+      ]
+    },
+    {
+      "id": "local-2fb951ee270f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/shifuku/shifuku.model.json",
+      "appearanceFingerprint": "3c4718cc1bb8d228e01ca2faa34a3b962a7a296eebcb0fd8db0c0e8d21c2c4f8",
+      "coreFingerprint": "4041219194a629b4a52308edf1a5e6b33bf7d4bed713d2df5ba49c5c2f4d7d2f",
+      "textureFingerprints": [
+        "3ae8a73d15d72da19e28f69e6f948a1221b49bfbc903a3306b37721303115808",
+        "4533f54506a28a27aa832a8364bd039e3c53decac0d8cc3a331e1a3fb62aa04f",
+        "8cfbf9573cf957a5e1c18750867c5d727fb74255d36d6dc90edbc75c61ff3d05"
+      ]
+    },
+    {
+      "id": "local-2fd73db8e727",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.school.json",
+      "appearanceFingerprint": "3653c4a77cae0011f0f0089bea3241114b6e4f0e38fed9aafafcaf73c135a394",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "1dcb3355685499d210af120f9dcfefd76176a43f01c637a579a088243fecc9ba",
+        "826e407088caf35b9695639a4380611ddada326201b67fe88360b1c038c3c5fd",
+        "b62e52c8f1ddafc454987bea054643fc83d64e5bdf5774e6da19a7f34033fe74"
+      ]
+    },
+    {
+      "id": "local-30fc26266bc2",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/command/model2.json",
+      "appearanceFingerprint": "c8cdf25e97f80e8fdc70d71ce39e15dda0fc120399762b2a3f14e1c5c06bc53c",
+      "coreFingerprint": "25e27975dfda2fc454bd62fd01a70e746132369101447c74611d0343cbeb8857",
+      "textureFingerprints": [
+        "4bc7448fa1c496bda4d15a0e9559fe99b8f57335fa24a59207929eefc3ce25d5"
+      ]
+    },
+    {
+      "id": "local-3346d646aca7",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/shield/model1.json",
+      "appearanceFingerprint": "db1a06ca80715c52f106db2ff3692ad1e294f04b68176227d1b9e1ebbbf01bce",
+      "coreFingerprint": "a3a9a2e4991ac0eb303a5fc641ce69a3c0fa952836947d9ecb21dd039e63aa28",
+      "textureFingerprints": [
+        "a9ba68e1995c6fc9e5404f371d2df43cf00a5020ed5e5fca65d2fa0e789a2cf3"
+      ]
+    },
+    {
+      "id": "local-34b8be351ff4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/ninghai_4/ninghai_4.model3.json",
+      "appearanceFingerprint": "134531c13ffcd1e103d0378a970c36aa35ffb2a2a010eef5d913222e6ebbc57f",
+      "coreFingerprint": "409c32cbd777d971753d94d8cf38d9dc1b240caf0e257ff166caa1f684e1d084",
+      "textureFingerprints": [
+        "e6af6f4d60a8da1af71aafa321990cdab1c61af01ce03ae92f6e2d27895aef63"
+      ]
+    },
+    {
+      "id": "local-35c16f93a516",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/grizzly_2102/destroy/model.json",
+      "appearanceFingerprint": "7290760585b6ff30f979a3b1e1a6e019a88b63100fcdee5fa0fb334b1c8979e8",
+      "coreFingerprint": "d14ab4ef2994c11c032ade500ee289d842b20042fd1710ef36b98bb4d0176079",
+      "textureFingerprints": [
+        "1e5c88c115a2e1556401fb9d001234d6546c5c7dc6eb2c3a87d4f705f2358ec3"
+      ]
+    },
+    {
+      "id": "local-37246edb325f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/unitychan/unitychan.model.json",
+      "appearanceFingerprint": "7824da63ecf1dd6aab834794484f5640218d9e744fcce10a02ea6c697d6a928c",
+      "coreFingerprint": "3ccab240b27a3c281ee2d13ee01b1079cf88c227e6487ed86af7085915b88d8e",
+      "textureFingerprints": [
+        "922df684c875e62ac3a9a4a5b1ed6b0e8522cf5d5c94ff9cabbaa4e554933c5a"
+      ]
+    },
+    {
+      "id": "local-38419e1e9118",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/tororo/tororo.model.json",
+      "appearanceFingerprint": "99c142e79c67d8dcc1d86f3d8e365c971e6d7d7c277c50d776059ee9205594c1",
+      "coreFingerprint": "ec50318bbecd05757cc33d4537d32787f87edfffa3a65bc746fd15fd17f44c00",
+      "textureFingerprints": [
+        "55a4aa8aa4a3cf91a386b8eabcf82b31c03c26a062fcaeae68211d5c8f264bed"
+      ]
+    },
+    {
+      "id": "local-39b7c0bcd154",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/aierdeliqi_4/aierdeliqi_4.model3.json",
+      "appearanceFingerprint": "c79090f320eab5cf7edfed4acfb43d1ae66c0cc435a1947fea7ac45c6972d291",
+      "coreFingerprint": "37aa82ea67ed756f34ea4ba1cba99af81b9e0f2d8a792a4847e67947d2877c06",
+      "textureFingerprints": [
+        "ab0325bcab7d4e062debae2d124464f6de3e97ba234df97c7bc4bbaccba6b5ea"
+      ]
+    },
+    {
+      "id": "local-3ddd849e3a8a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/tianlangxing_3/tianlangxing_3.model3.json",
+      "appearanceFingerprint": "23e04e654987b55b687dcf243ec69123ecc8d54b18e9be3bafff6e56222259dc",
+      "coreFingerprint": "5143776b023557d8038a713f5192f0d58a4b71f0a6808eea2e3fca70ab1272f4",
+      "textureFingerprints": [
+        "6e1fad3a62c4bee13bb38d228c92d64808f1ae2d4e5924181f005ed560dec0e9"
+      ]
+    },
+    {
+      "id": "local-3eae4d9b6f1b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/golden/model1.json",
+      "appearanceFingerprint": "40612ba2a49385e49497b355f1c8e3faf850bc04d6f0755696557b043e0fd130",
+      "coreFingerprint": "712f4fda0428ae80baa61fd3949f2559d09a7fc45b5ace2f435a7b63f8618a29",
+      "textureFingerprints": [
+        "6da35028a95949432139a45d39281416a983e5e0a8f30873454c0975fa9465e5"
+      ]
+    },
+    {
+      "id": "local-433bef0384bd",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepgear/index.json",
+      "appearanceFingerprint": "a540da2a3419b7ba55e88cf925c1ea08d2691f14b117f0a1afa73214cb131a6e",
+      "coreFingerprint": "0a36e6814ed56ca28504550c3408ef132afca96dcfe0d63c21cb4640f41d1c53",
+      "textureFingerprints": [
+        "7da9eee5cd65c12408d616d179a9e70ff5e18330d9257c97cac4fbf5c48280e5",
+        "68a4d80bf3c3b9470819f851816165cc738ad6f4c753ffd6cf94655858ac867d",
+        "0246b7ac306ad09ae4219360b94c9279a8451560b23015870ff93a155f25c3f7",
+        "1a0863089d555f350aa93d211bf91d39a2a0c865e48b6987a3573d25d15c530c"
+      ]
+    },
+    {
+      "id": "local-44bc1d178117",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/katou_01/katou_01.model.json",
+      "appearanceFingerprint": "46552d6ec06318e3f7de4434d3843a987b3a9d7809995abe8148df82f9e09231",
+      "coreFingerprint": "759ec942a58ab1b55d9418effaae2cac6512ac5a8588538a920c302edaf3cb1e",
+      "textureFingerprints": [
+        "71275cb7a520de0c1c4ee8c01c20b2af6588df847a65d31ef9359d6995612159"
+      ]
+    },
+    {
+      "id": "local-44f29798c310",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Pio/model2.json",
+      "appearanceFingerprint": "4d1d7c7a2d4ce69f0cbfb206a720ec6c5b6baac6d31556b50a3817cdb58e42ba",
+      "coreFingerprint": "1545fdb296bb2d1c9c6f1c295b3a336705618aa467c45e9be8dbc9cb1ffb704d",
+      "textureFingerprints": [
+        "620b561e065efcf0ae745d7a67d27930f92b1b65949d53ded7e6285c7c34fde5"
+      ]
+    },
+    {
+      "id": "local-45708538a547",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/xianghe_2/xianghe_2.model3.json",
+      "appearanceFingerprint": "8830d338423d6812cb7583c09b0e5c22eb6bc76d5c864c44e1d674173158a9c6",
+      "coreFingerprint": "04b9a052ea4df117fafc183c76dad73a696ee962566c862987d2d9cac7aca493",
+      "textureFingerprints": [
+        "3a3c1fe3469836af81d55f191d8025b2208c9258b176abb39b3838a7c9ab354f"
+      ]
+    },
+    {
+      "id": "local-458a7ca9f38c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/wed_16/wed_16.model.json",
+      "appearanceFingerprint": "fa39ae7fdaf57ecba19b08b102ab08c110efeeac13e3b530ab21b4ee6316d01c",
+      "coreFingerprint": "e52ecd6df6903bc160fd80eee719808e6dfce602b42ca194b457708482b7280f",
+      "textureFingerprints": [
+        "a4e6bf2b0b927295b268faf662c3c9cc110a15e8c145c26b53ca54071f48a0a9",
+        "c370285e69c9628c6babf2deddf807f65ba69e32c3fb4380a1c18eb704598be3"
+      ]
+    },
+    {
+      "id": "local-466bb04075ab",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index.json",
+      "appearanceFingerprint": "e6ddcb9268fc332a2e7537f0aeb4d1d69cf662b52986210d0a1eccc57f3a8d43",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "42804a9e7164fbefa4144704c963a7e3a06d389ec83d0a731e5c902cea594043"
+      ]
+    },
+    {
+      "id": "local-4754611e942b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22_high/model.json",
+      "appearanceFingerprint": "8e7c48b0efcbc9758ba65f740bdebdbd4d3828743918afeecafd177936f00aad",
+      "coreFingerprint": "2ed4adcbae9e957f1c07810eb9a98553d22ea63148ff798d75ab738d640ef9cd",
+      "textureFingerprints": [
+        "7b470dcec13d35a2475babc7a749a3b2f1683258e295e30a1d6c7b52c4abafad"
+      ]
+    },
+    {
+      "id": "local-477171b17dd0",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/huonululu_3/huonululu_3.model3.json",
+      "appearanceFingerprint": "b49b8c3309e2618ca4333759c1770dc8fc352d688c0ed41a047a5aee0d0ea703",
+      "coreFingerprint": "4a72955945b23045f1f2bd51aabe9c5ff9842ea7b02ae9a4c79553277ef29115",
+      "textureFingerprints": [
+        "48c0c8be2285313bc3d0a9117f8531dc40d0b67703cc05f1b2bb6474600a62b9"
+      ]
+    },
+    {
+      "id": "local-4b69a2587fd7",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/noir/index.json",
+      "appearanceFingerprint": "e0d1649386357b789bf2a7a3507e1bfa42aea82718a28b320d4866af26edb793",
+      "coreFingerprint": "cc6efc396a3d747c15bd90f78e92fc8f96f7724ef50a6851c0543ac63d9e315b",
+      "textureFingerprints": [
+        "014f011f1c67b2d3f587a954deaa538e5b70439844e97ce1c8694e4507de7f37",
+        "1fd82b7c2926156c42d316f85a3e7aaa68c57b220d58f47dd535091f202b34bf",
+        "02e217adf9e7f5116ebcbd6472adf57d850e7054fe290e66ec0df3e34d191607"
+      ]
+    },
+    {
+      "id": "local-4c0e71993c39",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/seifuku/seifuku.model.json",
+      "appearanceFingerprint": "d99e3cff8bb6b3f8f3c4af326ed2e0ec1a79db7de41c49db14e2e619b3c1e5e2",
+      "coreFingerprint": "1030652931357135b2567e63889fa16a9a07408e740f2e2bf695793501574406",
+      "textureFingerprints": [
+        "be2dc5957a1b4ac1b28bebc1e8ab3b9c785813950152d7eb427e36106a90347a",
+        "b32c410bb46db9cfab17307828f29d49a3b5b8cc5018d14559e97ed385486173",
+        "3ac76fcc77a5a0cb95594d4cec57be651f12539f0fb36b968c0c94e64d449a87"
+      ]
+    },
+    {
+      "id": "local-4cc7eec0e83a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/fortress/model3.json",
+      "appearanceFingerprint": "437da2efe12200f3c70be12ea29bd5b6d96575cbf79b28d57120cf49776b3360",
+      "coreFingerprint": "60acba7c434d8303f6857ee020ec84b1a6aa38c12c5e5627b0fe3c4b2fd54e53",
+      "textureFingerprints": [
+        "d1f21fec9dde33622e2eb3ce71f739b04a1e3f5b041b68c1406c8601062e3bc0"
+      ]
+    },
+    {
+      "id": "local-4ccc4a363692",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_1103/normal/model.json",
+      "appearanceFingerprint": "613ab919f599fdf8fd2b78c7660ff82bcf8e8a9f2ad70cc7c0ec9d8f4d1a1a1f",
+      "coreFingerprint": "4e0dc4ef15d8ffb40266f4ea1d0629cdb7f0f0f66f60711e98e1149017c0306a",
+      "textureFingerprints": [
+        "4e7a3530047758c247845c29476ac6434d673546f67f6539387b6f01c579f0e1"
+      ]
+    },
+    {
+      "id": "local-4f63cad90476",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/vert_classic/index.json",
+      "appearanceFingerprint": "2164fcfa70575e9a123e402479d865544d4879e52d1da6662aff99277169cd15",
+      "coreFingerprint": "7a36c551bb55e764a4442fc7006da959b62d1bef84bea55244893707b747e827",
+      "textureFingerprints": [
+        "5a321e1b9f0e089a277c294e7828ee2f1bd62772670dbd5afc48c4a489c2a5fb",
+        "b44e5ec4a38fe9cceca48a24f6ec28d02403f5116e11ac400ead394774c1f51e",
+        "a4bb1742f43ab0cb13844661a27e0ece6064d32fc2985ae093be433af9668151",
+        "e2023b2ec2a980779bfee3937b07e9dfd77e711340bdc613829c20d36043ada2"
+      ]
+    },
+    {
+      "id": "local-4fdfa49169d9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/redeemer/model.json",
+      "appearanceFingerprint": "4246d08e3eb3da2c8863ed9a93cc06270fc5e6b205d6dda0f30591af713967b6",
+      "coreFingerprint": "5d47b3db5066b3f642c1609014774cbaf069516b1ad8ef5a6456d9f9da3ebe77",
+      "textureFingerprints": [
+        "ab250985d5004909811aacb070fd1bf3b14fdb63c5944bb666efb182a5bb9048"
+      ]
+    },
+    {
+      "id": "local-5115c5843fee",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.tomo-bukatsu.high.json",
+      "appearanceFingerprint": "d83d5f7057422a9c2a5272aad4f5b76e8397eff92b59b607fd0b0f436fd05115",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "aacef0a7c71797c5be65c5f8075f1b3830544b9e98af33727a550eba655fd58f",
+        "3205ed5b0833a89ea24028537f303ffdcd26e2425590b01f4f6d8de5ba88320f",
+        "49bec65d526c30c1999e8de9fbdbfda9cbe28aee4163060e798eef61fec7ccaa"
+      ]
+    },
+    {
+      "id": "local-53024b6a2bd2",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/haruto/haruto.model.json",
+      "appearanceFingerprint": "091f08b00cdc76f1f2569ca18e3a07695230fa2ab427b86ac1a041f8ab4196fa",
+      "coreFingerprint": "27d208d90296ce900b533e5b14e225a4eb0a3209512534673b3817c3f81052ee",
+      "textureFingerprints": [
+        "bd3c266f52c506282ce438c6c5e865ed66eb6e0a37696560f01008988bdeea18"
+      ]
+    },
+    {
+      "id": "local-531e6c34f68c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/g36c_1202/destroy/model.json",
+      "appearanceFingerprint": "162d57566d654ff96516f09d3e6d8fef2d3911c92990d0c25053cbfc28293721",
+      "coreFingerprint": "9569721f6fd8718b90b3e86bd980e083b73eeb2bd4a430103117344d3a1db6ff",
+      "textureFingerprints": [
+        "84b2610098ce318a6baacc5d8043a4a006e4fd4a0641796f6541916bcf8a38af"
+      ]
+    },
+    {
+      "id": "local-53367c09de8d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2018.lover.json",
+      "appearanceFingerprint": "1ab5d859c042594340b41d952f67b0a4c41d2821bd6a780302742f28376cec0e",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "63a6e513942c1b61aacc34638ee0452dca85476d2a4ab7a76f388b354caaa32e",
+        "b9aa98d1f24d92de870d3e8b4489cc0498154a7b64d4f49086ea49ef49fa702e",
+        "a2241d5b74326c1b42a765165e76292e3cfb2149374f33c21ea928aa8cc95873"
+      ]
+    },
+    {
+      "id": "local-533ab05f9ad6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/type64-ar_2901/normal/model.json",
+      "appearanceFingerprint": "a261d73bdbc6b80fb0ad5d3f07a86406132b3dcd4caa900736e5e57fb89f17e5",
+      "coreFingerprint": "e05b39b2d9925c2b33ab6b7d64157a4e92ea3cb70b9780643c4e0bb73bf71cb9",
+      "textureFingerprints": [
+        "18301681ea718ac811ae5799b8915fac2570d7edaada407e52b45972e2639804"
+      ]
+    },
+    {
+      "id": "local-534e67321374",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/tierbici_2/tierbici_2.model3.json",
+      "appearanceFingerprint": "1745602cd9f1c128a769f10bd6be100bbe1581b604b1892d48ad4dc1e6a52d74",
+      "coreFingerprint": "d76623205f716100160a96fc8618268aa9f74a0d5390390b80095d25a441c4b7",
+      "textureFingerprints": [
+        "3284611e45e5cf3e7d700423ad2443a361332a34388acbb9df53d1f9340e9fa8",
+        "55b4c9a8cad92f9b2011ae71273b3bc304f92520e2f2d84011e3a4cf0054addc"
+      ]
+    },
+    {
+      "id": "local-53a4694ee230",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Violet/14.json",
+      "appearanceFingerprint": "9392e8a6fdabc85192242ae185eaaebf47923c6a238537f809b832000ac188f1",
+      "coreFingerprint": "032bf61a1ca19aad8fc2d2bf32f24983325abe99055451bc198eefa0f8b3945a",
+      "textureFingerprints": [
+        "4bbe1403c186fa5d11e97e7eb485311c082b554b78c94ef7e9f22fcb1e6194bf"
+      ]
+    },
+    {
+      "id": "local-53f743f81b90",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/live_uu/model.json",
+      "appearanceFingerprint": "dcd406dfe18d8743d2909dd8d7d9e6c3ff746cda1f97592831bec03d05747153",
+      "coreFingerprint": "18a1c61a72443b15b758e8c8d6a544216849dc1c1e2147d076342bec2f977a4f",
+      "textureFingerprints": [
+        "b1f9973721e2356724ea3878e8c520e65f9cf1321cd5279dd71407d66734452f",
+        "97157a616790b4dc906be33ef1e5d32f8914ada9f9ea9dd7722fd50fe46bfe13",
+        "564ccc586dcdf4487719c9fecb0e122d7702f4511889b0e9ce7cadbc4d3394b1"
+      ]
+    },
+    {
+      "id": "local-54038cd84578",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/histoirenohover/index.json",
+      "appearanceFingerprint": "5316caf51ab65d391e0826f70c1921ccf0a93acf5921a7cd452f60bf4c06f02e",
+      "coreFingerprint": "036582b9d90617074b6c994c147418b37fbb06ebcb5d1c7d6f956a4dd981877a",
+      "textureFingerprints": [
+        "372e41430b9281975e44d7e90e61f7dfbaba802d2dfe513303a026dee097f687",
+        "013cdf4e1fa8c7efcb95f1eab3c5149e505c5e5b8cdbf1cdb22d0233b4411446",
+        "d8b0ac8c4a05945b1ab8d3d1046b23fe8a37c809c6f303b29c6f5615c66a87ce",
+        "e3cb14cdf90e1604b0c5cb66d9c2e06ca9fd1fb52f8a4976ba782fc7cad814c8"
+      ]
+    },
+    {
+      "id": "local-55341c77fdbe",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.school.json",
+      "appearanceFingerprint": "1f04f998c774fdd28a94a92ca5a71d85a50ef15d45793675c0147f891d27b66b",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "2065c681904625dd24ba61134070b3454a1e03daa263aae41354ec417c9d418a",
+        "64faa2d0eabc802ee092e425d05ca42357ae7c1dcdd8192d873a731a94f8dbfa",
+        "d86e6ee88e5fd955267d70193a43726234cc7966333a9ddeb8e43c0808c6644b"
+      ]
+    },
+    {
+      "id": "local-5655961e8bc6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepmaid/index.json",
+      "appearanceFingerprint": "c2c65301b044e13d90c6d2fb2a71a5552a33ee9d318a6ae54fb707dce9f6c1e8",
+      "coreFingerprint": "b89263a0e17a5ca4b11da4e148636357eed881965c575b4bad018006bb103d34",
+      "textureFingerprints": [
+        "dec289a87b18416499b1538b93a39b590f0c50e7967b46366a6d83332bf63505",
+        "3a0102f8de309ded88fae7f07a647746510707a52aa089585d18edb58fd81590",
+        "c995c681ab10840be7323b9f3ba51b32aa33abd395ac57bf150b8aa19bec1f02"
+      ]
+    },
+    {
+      "id": "local-56fff02da9d1",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index4.json",
+      "appearanceFingerprint": "259bf406082de4398a1d69c1981eaf3b496f35220c49502ee4ab0cb6c27e4691",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "3a04ad23197525dee259c3100c31824c4acccfb0563606a06c534d1e5a054f1d"
+      ]
+    },
+    {
+      "id": "local-57e8504a0d5b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/zhala_2/zhala_2.model3.json",
+      "appearanceFingerprint": "6b484e37e372eef34418f326fcb19168f8bc9f81144a24cb3d8819d5475e7b1e",
+      "coreFingerprint": "559ab04c5609159fed447feacfa38bab34108ab219951283a791613026c43b8d",
+      "textureFingerprints": [
+        "99df70eb014f5aeb61bb6eabed0f85b7b52c1d2c15d68d67ad07805bddaa339b"
+      ]
+    },
+    {
+      "id": "local-58e2a332a3da",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/dsr50_2101/destroy/model.json",
+      "appearanceFingerprint": "9bd86e678a219eb72ca37fa6306a3c2fa34c41da49171be1eabee98c849fb06c",
+      "coreFingerprint": "6e5994d54265346df86b7014d50bc0470fff49ce7122002bf42ba17570c5bff0",
+      "textureFingerprints": [
+        "12fab637b0bea8f3cb9011ac5e15a02a2cbccab5066f94f76fccc4a4b05882de"
+      ]
+    },
+    {
+      "id": "local-596b6aca0609",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/welrod_1401/destroy/model.json",
+      "appearanceFingerprint": "56850b2112801a56babb75f67d9b7493df621c651c0480e5d440c34981d855b1",
+      "coreFingerprint": "6dbbc2e6faae75756e99ea7bce05ec4c85d0b31b61560ed67f6591869e7e50c3",
+      "textureFingerprints": [
+        "27729825105786a401bb2ec27b19f944cb69d6aff509437746432bcb6a1e128d"
+      ]
+    },
+    {
+      "id": "local-59990ad5a3ab",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Pio/model1.json",
+      "appearanceFingerprint": "1424032a95f771c8354c3da58449ee8946580d61da65459ae20291d82b277bb5",
+      "coreFingerprint": "1545fdb296bb2d1c9c6f1c295b3a336705618aa467c45e9be8dbc9cb1ffb704d",
+      "textureFingerprints": [
+        "97634e0fa75976e679d769cd84b9c1cead8c661c1e9f5fa6f63d2d571ec2abad"
+      ]
+    },
+    {
+      "id": "local-59b4b716ec60",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/yichui_2/yichui_2.model3.json",
+      "appearanceFingerprint": "9a5d7db9c2df3e17083a3b767ee236d117111d0356373456c47737fa6531b54f",
+      "coreFingerprint": "bc6db3932440d98d03a9eddaf9d4b5e093508bb079cbb1452fc7f957153453b6",
+      "textureFingerprints": [
+        "6ff33dfd721f5492f310bc76c69cbba856b3be5230a7bb4a35b676242584a4b2"
+      ]
+    },
+    {
+      "id": "local-5a9f85678090",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/shengluyisi_2/shengluyisi_2.model3.json",
+      "appearanceFingerprint": "800304a7a263c7eec309b7c0962b24da5f9afe498cafd9e91dc4b63f83fad3d5",
+      "coreFingerprint": "88a2081169b3f3d1a746a5577f6f789b4b97a02920d8e7e6acf22c8a8f52ac48",
+      "textureFingerprints": [
+        "46809da2d8202e20a3211cf8d12235c02eba2dff88a61caa662fae0629b26f3f",
+        "55bd4d54d5b57a1db9a15c1307fe462eded443d7cd96f59cc2c7ecde49a6c2c4"
+      ]
+    },
+    {
+      "id": "local-5c0664c141b8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/jin/jin.model.json",
+      "appearanceFingerprint": "f48c75423f118aab5d5da913686da3d8e2a17f75959360ab1c48060a25c4dcb1",
+      "coreFingerprint": "5136339f6ad2eeb11330347e0e937628bbc6f69fc9627c35edd3f676fcb0f4e8",
+      "textureFingerprints": [
+        "e93618b5ea0dd821272c965b7e6c04706c19a7182c5bc75c0571f46e00a44ca5",
+        "2b13e8439b63756d1525dc96975e334db5cd62280e5abc56a225a5dc2893bdf7"
+      ]
+    },
+    {
+      "id": "local-5d54517af58f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.summer.normal.1.json",
+      "appearanceFingerprint": "a9290f67cfb8c6fe9d2626c926ac70a16958ba65229b184bae704313e1d82a96",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "c8b6608d01ca66433aa1014be1fac9fc97b03ce7fa5231c53700616bdc1deb51",
+        "6083d7e14bf85bc893a877a00287581818c1ff21899760d3278ff60e25827904",
+        "979a8c30f83ea2e36ce973ad346b1ad88f55e8c5b9579d644d2b6b21679929c8"
+      ]
+    },
+    {
+      "id": "local-60368d85cc01",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/blanc_classic/index.json",
+      "appearanceFingerprint": "a6802677e7b52bcaed5917024edfc6c81212178516dc06e617e869aef59d1d1d",
+      "coreFingerprint": "57dbd8203f943026ffded8d3c5b9e207cd6788d4d09cfcb59ab75772d41a173e",
+      "textureFingerprints": [
+        "839f181d62d513c32c8555480bdcba252cfc89d699d7c2ee667f31585369fe7f",
+        "255d7c89ceb55d534812ca83d217d603abe9daad03fd247e242170da0d834c0c",
+        "2bacd16bebec0e4ef6a0d848131bd64881608e1bd2a735c7e8a1a140e061d11e",
+        "85df96abe6f8a06624f5b9ab1d4f104d34ae5b5ce188f448aaf6a79b71de49dd"
+      ]
+    },
+    {
+      "id": "local-6043aeaf1cf9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/fn57_2203/destroy/model.json",
+      "appearanceFingerprint": "e750ff4c140665fedb7e5a7196ff08b54ea21231fa25c97fdf4cac486679db1a",
+      "coreFingerprint": "2386dd805c2b8d87f7c22f776eb39d64f13fa2eed846e78266de87c2e4acaa17",
+      "textureFingerprints": [
+        "8e48f77eea075cc0d7cb9e82680b728a353a6966b55641412696587701a7c4db"
+      ]
+    },
+    {
+      "id": "local-6227504486bb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/mingshi/mingshi.model3.json",
+      "appearanceFingerprint": "44a70d5639704d6bdf9aedc65bc9b8b12de7dfc6eb0e32797af80dd5341fcff8",
+      "coreFingerprint": "f4a1e5b1ea5a284c1d346ffdd61eec03f2060bd204abda36cb10e0c0ea3f1fd1",
+      "textureFingerprints": [
+        "c289469eb57e31fa3a53b6b64e0387eae88b2b644b656d73a74c7db5627045a6"
+      ]
+    },
+    {
+      "id": "local-648563eed82c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/yuri/model.json",
+      "appearanceFingerprint": "923baca24d697354944949b28944b62a0d27cd20d1cde49c91f376ed62ff2707",
+      "coreFingerprint": "ac2b2f204d294f1bf0679a1be59b94bc2863cffba169a3bf0432bc4c5c1088f7",
+      "textureFingerprints": [
+        "f0548f55bb936cd7f2eb0c3119d5f7b5cea8141d41aa58fffb2d09ae3e82ea5a"
+      ]
+    },
+    {
+      "id": "local-65a9b84ee619",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/aierdeliqi_5/aierdeliqi_5.model3.json",
+      "appearanceFingerprint": "5ac5f345c6729f6e5177ed8b95007c865ca80f271fc29adf3d9115b820f79a7d",
+      "coreFingerprint": "d4e6c50d594b6822ae8cec5bffb47ed8e4374649593776e66098df73f73141fa",
+      "textureFingerprints": [
+        "f990faef2527a1f425ee050c27587046093d03f7eeedadd9b0b787718ea577f5",
+        "246b9606cf127a5f7dfbaa2f82f280d0422a386ac21dfd675c3c010ca8dc36cf"
+      ]
+    },
+    {
+      "id": "local-66553b661182",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/95type_405/destroy/model.json",
+      "appearanceFingerprint": "7170281ea4859ae27bafd3b2b402971cff4c8e21b380aebfbdfbe5db9ea6cb12",
+      "coreFingerprint": "75b7211008fe66746a7b2c12bd94abe165e115debb7a8cfe36da5f36392cdd18",
+      "textureFingerprints": [
+        "c25f01542801c1acb54f3a469cd31cee32c02c87c09905932cc26170dcbaff50"
+      ]
+    },
+    {
+      "id": "local-6664508bf153",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/biaoqiang_3/biaoqiang_3.model3.json",
+      "appearanceFingerprint": "748f0b232db1aaabbc3934e83cae9747a812c6fb963363388765b68ed8ed7c78",
+      "coreFingerprint": "bfa15df53f9481d63b65473694b4c690a984ed21e4bb07d664c5bde17c9770e7",
+      "textureFingerprints": [
+        "b9bb9391c07129c580a8fa728a9c08045ba299825954767f1ccbdc6b07412974"
+      ]
+    },
+    {
+      "id": "local-681c9464f471",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2016.xmas.1.json",
+      "appearanceFingerprint": "2b05648356a23a98ef6915bc32ce5931b6520666a7cd7bc19ddfa94b4e6f35eb",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "fbda3454061e461d373929ee7c5e038b5972125cb95e34f866576c2897995b83",
+        "3d6bee15852e0bd7463760812e8a42aa0738035b3c19b9cf4c61432d1321187d",
+        "015fbe8203bd2a4bd9cb2cd54e2a8912ec3934b5925cb329a347d1668269c233"
+      ]
+    },
+    {
+      "id": "local-69810d752214",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/command/model1.json",
+      "appearanceFingerprint": "7f8566a8ed83ae1847aebe6f27c1bdc43d44b14ca80b89895e65802d46896a1f",
+      "coreFingerprint": "8a1a8ba3a051e0d5b8eaba854a44260ba1208a72402d91f5006c510a637bac21",
+      "textureFingerprints": [
+        "4bc7448fa1c496bda4d15a0e9559fe99b8f57335fa24a59207929eefc3ce25d5"
+      ]
+    },
+    {
+      "id": "local-6a05cefd0079",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/kanzaki/kanzaki.model.json",
+      "appearanceFingerprint": "0f9c2727b4ef3900dd78aceee776f8ebafcb6941f716d1f49d272c85550cfd9c",
+      "coreFingerprint": "a968d2b152387e00043ed83507de8b68a6ebd3a293c597a1b049740ca15673ff",
+      "textureFingerprints": [
+        "b2ade19ba750a0ed775213057cde6a1e096e9a07144e25b4d83d9f910dd79f26",
+        "29da9c1ee5bba5f57cc416301e757b86abf81cd4e919fb3179ca976f1367ce07",
+        "f9912b7d91770c2b26bb02ccd914a6df1ae2165486dbe9f5a5c34ef71fd6404b"
+      ]
+    },
+    {
+      "id": "local-6a461e49f9e3",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_1103/destroy/model.json",
+      "appearanceFingerprint": "bb32b3b70e6a1543445f64fad7ce41634be1a547412345703de807259b7efd1d",
+      "coreFingerprint": "65e55f1f0f5cca49ce87cdb0dfc3abac048eadc6b9bf54f898617b9bb188fafb",
+      "textureFingerprints": [
+        "434d8ec5453299a69c63bb247dd7ebe8789b9e9a78f0135d7e7c636220b02879"
+      ]
+    },
+    {
+      "id": "local-6b1abdd188d6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/murakumo/index.json",
+      "appearanceFingerprint": "23417a0994a77b40f334f6299103f548e86eae92116714bfb4208e6686efb9ea",
+      "coreFingerprint": "1bd23cf4bc2d478a4550dc4d527b8f3350d9b116f78b543b307bd528fca6377d",
+      "textureFingerprints": [
+        "077349f291df5a9a60ff228b914f0c4485c67f9a4aea7749472d935fe55bd465"
+      ]
+    },
+    {
+      "id": "local-6c40291d8613",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/izumi/izumi.model.json",
+      "appearanceFingerprint": "c682dbef8fe77748a869e699083971d3303a905c436b09cf29186d42cad6d625",
+      "coreFingerprint": "908a3d09edb4664beb79a3057cbb4d78ffa34124d4fabb2093ce847f1b775528",
+      "textureFingerprints": [
+        "7e7b00f4a1ee8058c8197b791e6389eee445c0a67ecfdb1798f9bb7665b1b3bd",
+        "8230e8e1dd89cfd0604adaea2fb19fb9b5e687c8be65aad56f0fde5a6fa37a43",
+        "46b3f15985ee6369769e0d27549534b572b7497d6e93f8b4e3c73fc74b629459",
+        "dbda4b18c0235718a522768c36929b8395dfd82d52dae34bc92eda31c55af142"
+      ]
+    },
+    {
+      "id": "local-6d5ec5f25cb5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/ryoufuku/ryoufuku.model.json",
+      "appearanceFingerprint": "5128ab85820a2ebc1774852aafbdea06df666005ce3f9d4bd20ff3a215d25de3",
+      "coreFingerprint": "bf4c9dc7ccc4a1f1fefee08d3bfc95347e0e89532910c7af2d3bba0801c6b728",
+      "textureFingerprints": [
+        "be2dc5957a1b4ac1b28bebc1e8ab3b9c785813950152d7eb427e36106a90347a",
+        "88f1cf8233649af6cd70c09cad0efd7db65b8ddc5d307c9bfed88e1785d98b63",
+        "0547814f9187284ea777798598273b35c20108e92ce27077ac93d85db03b6840"
+      ]
+    },
+    {
+      "id": "local-6d946c3fe9b2",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/dunkeerke_2/dunkeerke_2.model3.json",
+      "appearanceFingerprint": "1d4c494649ed9f11f61b8e1055842461d5b9a448f94f0787305ea18c74161f22",
+      "coreFingerprint": "2f296799a4e62385ba1d1a7f071dd1c65c3eab509ac4201062976c7af07624a1",
+      "textureFingerprints": [
+        "ce80f9575349c1511e7bb7d37b78ae9d575ac9316582153a23ffdee8415fbf70"
+      ]
+    },
+    {
+      "id": "local-6de22b43ba65",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/biaoqiang/biaoqiang.model3.json",
+      "appearanceFingerprint": "9dc0b6f9e49cf4d4be72394b6f46dd63df963f1a70b544ab0b4d664f6b3c86f6",
+      "coreFingerprint": "72c9fc85a4c6b2dd7ee55a8597ceafd665231b8f329e18d438adf5888b719268",
+      "textureFingerprints": [
+        "f66f9029004f5c00dc597f17cefbe8b7ebda9feb4c9f9c66dd3b73d3d6c41af8",
+        "8f65900e954dad2c089cb8f391086b6d55d02569fc6fe77bd5dd9dec0774b2b5",
+        "bc420c5b98085820b79124be2576ecee5a2dd8226554242510c9907f2196a50e",
+        "8be1089c01d0996c06d6e9ac6b2ec9fc5dec9a1ee038ccf7e39940a6ad88a221",
+        "9369cc204dbcd01be8106bff4707bede5f4278fc5cfd974d78c99125b377e7d3",
+        "2e0fd9a096191f1f777109ec835791ddd37d7f671dc92169733a9f9f9e29b67e",
+        "1489846246618aca6066f65f6965dd418b652be1ff990003740a1354ccdfcd03"
+      ]
+    },
+    {
+      "id": "local-6de3dac17c57",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.valley.json",
+      "appearanceFingerprint": "21a1caacd2e14decde3fd2ce3042332e6d0e223089971270e278ff11e2d7558b",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "96fe7a770bce2537e9a402cab5c3da2182d4cec54339a70e0b394fab287c7d74",
+        "42b386c9a5cc2c8d3387d33403a5cf234af9a7b1a3b246e2e8f836b08cc337b7",
+        "c905fe30ad9579d349f4d638cc171ea707ebead5c8b3f0ec8ce6a32215ad1656"
+      ]
+    },
+    {
+      "id": "local-6f76ebed3dc6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Alice/model.json",
+      "appearanceFingerprint": "d579b3eec727bda983ac06654cbef7e32251306ad9a03c8ee45756bbf105364a",
+      "coreFingerprint": "06aa608f5f0e7a48953ace00910168c62bd3043950ffdf1dddd5cb6ba425da3d",
+      "textureFingerprints": [
+        "bfc0cccce77dc4b088846a8396a77762511acae8cd48e1d16ddf02aad2487df2"
+      ]
+    },
+    {
+      "id": "local-716fc74a59e3",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/px4storm_2801/destroy/model.json",
+      "appearanceFingerprint": "6d6f0746aa8abd5af04c4a1241eb8064e61bd05ae76489639376757f3e3c855c",
+      "coreFingerprint": "b1d1437324db618fc2613bb24c0bab857aea75396c7880df9d4d42786572cf3d",
+      "textureFingerprints": [
+        "a23965764c8a8b758cdbd6ee313999b49f7439c6d87f3b330cfa02e99b57ac47"
+      ]
+    },
+    {
+      "id": "local-7290c46bcfd9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index5.json",
+      "appearanceFingerprint": "557e63347c12032346061011648b3d67e9aea9e209bd810408edba33e14fb0e7",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "cb4d3e4d71f090c2e1c9c000419d131294ee1ee1f4538429a71397e07421eb24"
+      ]
+    },
+    {
+      "id": "local-7342b5d7c248",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/pinghai_4/pinghai_4.model3.json",
+      "appearanceFingerprint": "c363994bcf1344c539363a5aaa16f00bc6d15ae8df1c21c719d57b21df90049a",
+      "coreFingerprint": "36df2298e29ddee1aa638cb23b1e3183c29a24a01f62131f908cf9904c220455",
+      "textureFingerprints": [
+        "5b196bbeb21ab00a1332c8afe086a17a38f6839bf1cad0d73595270971a46abd"
+      ]
+    },
+    {
+      "id": "local-73b9a40dbffb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/bisimai_2/bisimai_2.model3.json",
+      "appearanceFingerprint": "c09f62021375d0392cc42a07c08a479143cbd33567f0545f156f512be5c2c805",
+      "coreFingerprint": "8d5ee2ff207c5773b4c80d5252e34025d3904c7246362624a246827e873242f0",
+      "textureFingerprints": [
+        "d95b69a0b9abe5d30e6e9fafe935c57d3eaf09b7d116d0c8fcb693776fe90b79"
+      ]
+    },
+    {
+      "id": "local-760cc8bb9017",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/kuroko/kuroko.model.json",
+      "appearanceFingerprint": "38890d9619e93c6f7232f8fc37b4410dafcb19d80b0327b62adc60b753d2121a",
+      "coreFingerprint": "c76656f1b29a5323ae4646ebf34b5d27a8a38894126ee0b51038d482021a5ef4",
+      "textureFingerprints": [
+        "a048a21dc6b7e4e5f721d347854666d5ba7a9b958ebc0cee6b290bc52891b087",
+        "0b6264fd00fcc4a3bf22c477665a927256a7e26ef0d6c0ddc37da037f0ae2828"
+      ]
+    },
+    {
+      "id": "local-7758aefa3a68",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/fortress/model2.json",
+      "appearanceFingerprint": "eb921b042620b8447a28985c2d9209ea6a880c3ffc302bbda692378424c97b25",
+      "coreFingerprint": "0f92b777ec924c0f0ed5d172559e98d887ce6e77dd731ccd9218f6cdde61f6fc",
+      "textureFingerprints": [
+        "d1f21fec9dde33622e2eb3ce71f739b04a1e3f5b041b68c1406c8601062e3bc0"
+      ]
+    },
+    {
+      "id": "local-7811427e85fe",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/rem/model.json",
+      "appearanceFingerprint": "a42c45db4346d93655d665adbf922712a5e1e7ad9cfe20590831e8d417dc477a",
+      "coreFingerprint": "3236a2b3e7ae1cae2b632f374a56068b64a149d07a10dfba3a9588702d61ce59",
+      "textureFingerprints": [
+        "875dbebeef21e437de4b4ed08bd83b9b9f5f42e1620559c86b4e6a104bcecd76"
+      ]
+    },
+    {
+      "id": "local-78c714ec488c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Pio/model4.json",
+      "appearanceFingerprint": "c3db555614d3ac81b7aa77ee9a11784434e5b57e77423461ae32ef3208c364d2",
+      "coreFingerprint": "1545fdb296bb2d1c9c6f1c295b3a336705618aa467c45e9be8dbc9cb1ffb704d",
+      "textureFingerprints": [
+        "4172f1c6c23f82ef3f3e3d4694fe2b1203d1503756dca6d61b184cd33fb3ac50"
+      ]
+    },
+    {
+      "id": "local-7994dec357ce",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/sipeibojue_5/sipeibojue_5.model3.json",
+      "appearanceFingerprint": "4db767301ba8832bf004f66e6cb9643dcb12114b8e79935b8ca6f5f9749af44f",
+      "coreFingerprint": "fac40dd408d1c0486a180804235132405f44538684fd9d5a04694a9037318baa",
+      "textureFingerprints": [
+        "3766cdac8a776797917e06fb53c2bcd5b6d8d8a2dee52c23badb7a06b640546a"
+      ]
+    },
+    {
+      "id": "local-7a0cdd60dda3",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/platelet-3/kesyoban.model.json",
+      "appearanceFingerprint": "623472d492be48468032c19ba34bf3b8913a142f2bfe083b3af00940ec203c15",
+      "coreFingerprint": "defd9f3710bf1095a7ed2402822b058f06e691df76f03258ea94cf507d2bbb61",
+      "textureFingerprints": [
+        "56689264eefd549517cb5c1f4195a22e40df8cc00e2d646e1a9a7988675f98de"
+      ]
+    },
+    {
+      "id": "local-7c94ee170e4f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepgear_extra/index.json",
+      "appearanceFingerprint": "e2048d6181e2fa76657be6f3d841a41e5b285e766d07f7783aa530a1e4c33cf5",
+      "coreFingerprint": "78e98dbfe8e16bcc8a8251e50e9f88f0401c21fadbaf00d4f9bdf112e5e544dd",
+      "textureFingerprints": [
+        "fe60edbd1ecbac706411cc83cd8e7adb6b1179b585a80c1997294a757cc5a6bc",
+        "ca078b08c3704e1eb03750d74df8b80d19746c4cbe443ccdb655ade795cbc317",
+        "f81d9708542865a8c8713510bce1b77e85235fb04e24a353458a2f1a82f91ea8",
+        "c224d0ba3b23e4ac15762e52d17c1772552a6ca2f3cb7cf033e85b8b86ab5edd"
+      ]
+    },
+    {
+      "id": "local-7d8988e5ced9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/wanko/wanko.model.json",
+      "appearanceFingerprint": "6f1ec2c10fe4cfad7f143db41408ad8d799059fd449049f3317c60e9bd95a3f3",
+      "coreFingerprint": "888cf509fecebc432550ff15fb2e239a2831ca66be4cce2831343cfc6a2befd1",
+      "textureFingerprints": [
+        "3b9ea48c9d9cab6088ce5c1068d4ba345e7c37bf54ed005b1c7aa5860fe04d57"
+      ]
+    },
+    {
+      "id": "local-7e5e8e05c35a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/ots14_3001/normal/model.json",
+      "appearanceFingerprint": "07406245177dd639fb80484cf0c3a0858640a91825db51260fe62fd45b84bf71",
+      "coreFingerprint": "ffe9de14c5840470af88666a64ef39a328a21cde21c151fe2292a95f8571a401",
+      "textureFingerprints": [
+        "96b56e2daf57392ee4144dce641849b606418c87a15e92b6293102d5bda385b5"
+      ]
+    },
+    {
+      "id": "local-800f99e79437",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/len/len.model.json",
+      "appearanceFingerprint": "7bcda716f209f7debc1d9a010778c3bcf5d36024b7444430cb725e5bd6cf2914",
+      "coreFingerprint": "51a64413a06c24a35c6a03f0ee00886d891e78feee0a266fc2d1c20051f6e5f6",
+      "textureFingerprints": [
+        "a40115ffcb94823ea181a26e873ef161af829e08e9363c9f4b74ce68fba5c9e4"
+      ]
+    },
+    {
+      "id": "local-8303b2423209",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/mei/model.json",
+      "appearanceFingerprint": "d1366d884f39f49751f2bde4c2e46fd95f8a877dc0e814f09fd78bfba2e90168",
+      "coreFingerprint": "19e48633f5b51964408c910aa062ed4f551e55a0ed0e78f5f597c5d058eb2d94",
+      "textureFingerprints": [
+        "e55cda4696b5793df594e687787c8929b58ff908124db82be6e43c4d82a3c322"
+      ]
+    },
+    {
+      "id": "local-84c65202f41f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/xuefeng/xuefeng.model3.json",
+      "appearanceFingerprint": "66985fab76f4cb71dffe8a46c58b6fde8ebe029dc94715b984414dcb6e60e23b",
+      "coreFingerprint": "35c5cb212d30c2ca416d7baeb1ac13fe95cf8aa2f3efa7650d60a5ae7a9c3fe6",
+      "textureFingerprints": [
+        "4b27d5f0d0196d27bf05021d4de147be1bfc3c899c2f71c24bd35b60d68d27f2",
+        "1bb9300dce2f44f4c2599c9e5a46dc55f372bc7f11991707d48cf1cae8214f2a",
+        "6037efb7e48bdd1be6c79ab6a2d58e16fcaffba534506f2aafb3a5f73a1367f0",
+        "5930a711ad09e080ca883ed3d6b5b2a2f0a0ac8ffb40323650442e6b47bb183a",
+        "047ef57cf6c8dd494bada584e7e76c4e25246b9431fce481c76d18767e5bd180",
+        "c11790290d2e71f24769b234aa0968a8efead7d074cea54cbd3d0f235f589efd"
+      ]
+    },
+    {
+      "id": "local-854e4692066a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/seele/model.json",
+      "appearanceFingerprint": "7d78cfc1c502758700c12387291b76905f3fa41dafbf9d753179a92c033bd3cc",
+      "coreFingerprint": "2faf5a2a77e008316eead21e65df3d4fcd939043b028b244a22af2ef4d2e63f9",
+      "textureFingerprints": [
+        "f5b95f9e40e99c6ec2c89dc7e8507fa7de88e1568682fd299fcb46234d81aeee"
+      ]
+    },
+    {
+      "id": "local-85af99ad7c3f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/platelet-2/model.json",
+      "appearanceFingerprint": "feeb572ae4ca3640d402558b91641dfa7b01082700fe09208d9a3c9d1426543a",
+      "coreFingerprint": "01409c38e230c8deab1039be2b62799e14473275fe8cb1189d5dddc046e38866",
+      "textureFingerprints": [
+        "6e740893c0891b4ee6139420a5caae37df1708e068995e8282d6a32edd6b3e4c"
+      ]
+    },
+    {
+      "id": "local-85cdafe8a733",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Kobayaxi/Kobayaxi.model.json",
+      "appearanceFingerprint": "0ced9552bf08d37e5899456d6749e500966ac42d85fcdc1bbbaf168a82d5b4af",
+      "coreFingerprint": "0aca0d8d3c0012fc31126fc23952818d1addb1c0396fa83ed8a8f2a030db6785",
+      "textureFingerprints": [
+        "36b0fe2ca6d079f6a60e08b2c08a02dd3edd97334ff696e25cc38c6bc05c146a"
+      ]
+    },
+    {
+      "id": "local-85f25624f5c3",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/aidang_2/aidang_2.model3.json",
+      "appearanceFingerprint": "5898ac8cdd0411b0ba118b045e650bdd096cb15a3cc1de91e8e6cceb0b0d801a",
+      "coreFingerprint": "59299c35795136ad45e4a3b1dca9a02ead6e62087ad13f73b5042fc5b1f0b0ab",
+      "textureFingerprints": [
+        "dfd8071882abb786da2073e88234472470612910f40458b999b7e58a13a0feb4"
+      ]
+    },
+    {
+      "id": "local-8632f4fc8a6c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/dsr50_2101/normal/model.json",
+      "appearanceFingerprint": "acdd4fbcaadffe106c2504fc891afa1ab7dac8682a9e9366fb195565dbc57cd4",
+      "coreFingerprint": "f0b0201ff1efdbd7ea7fe636f4167b95f56807247483357abd56846f766285c9",
+      "textureFingerprints": [
+        "dd2e6e33c2ee5cc8ba4c3559f5892b34f9b46e5e69d26f8159fe5eac36a956b6"
+      ]
+    },
+    {
+      "id": "local-86ec0535a562",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/mashiro/seifuku.model.json",
+      "appearanceFingerprint": "1d066973c2a98dbf5ff60e11fce4db828805f6f995c63e2e4d0acd4dea656e2d",
+      "coreFingerprint": "1509fb9942512d23805f7ed087d5e66dd70294a4d7d69af35fc6aedb0e047aaa",
+      "textureFingerprints": [
+        "4f51203f8d379450c25edadd3b828aa45ecfb078aa4abb09fec573ba6f595845",
+        "9cb7cfc1566dd36cbc507f1cb0e2f2aa2d35b941107e1e2fdc96e32b29b94b50",
+        "387026f6d2bcb93e55cc476eb6647f2db8f3e39c0aa9d30d83cb909070ca4c81"
+      ]
+    },
+    {
+      "id": "local-873b66308316",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/genaisennao_2/genaisennao_2.model3.json",
+      "appearanceFingerprint": "a80df2c6d4d2833ee069871b154da0469e887a833ff54fcfcc37f367ac3aa1eb",
+      "coreFingerprint": "ae4dc19917872db0b2a5e897db54936aa07cc99ff337b5f6d5efc1b63c034e47",
+      "textureFingerprints": [
+        "3c85f3fcff1c1674db10916ae61e860c285c69ed714395e20b808d716f97c987"
+      ]
+    },
+    {
+      "id": "local-87cfa88dd7cf",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/live_uu/model_usb.json",
+      "appearanceFingerprint": "dcd406dfe18d8743d2909dd8d7d9e6c3ff746cda1f97592831bec03d05747153",
+      "coreFingerprint": "18a1c61a72443b15b758e8c8d6a544216849dc1c1e2147d076342bec2f977a4f",
+      "textureFingerprints": [
+        "b1f9973721e2356724ea3878e8c520e65f9cf1321cd5279dd71407d66734452f",
+        "97157a616790b4dc906be33ef1e5d32f8914ada9f9ea9dd7722fd50fe46bfe13",
+        "564ccc586dcdf4487719c9fecb0e122d7702f4511889b0e9ce7cadbc4d3394b1"
+      ]
+    },
+    {
+      "id": "local-8869aa471529",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2018.bls-summer.json",
+      "appearanceFingerprint": "15c642c0efc6392ab81dd478ddca989ac3946744981853e9f2542fff0ed5455d",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "36707b9379505ff2a7ea34b9290a1904bddc2218c0de7275ea8acfbf8e0edee0",
+        "4237410b67c6a7b20d1273a7a700a6ba3834ac40d4655b163861835a13aff55e",
+        "16e5a6d606684eb5d80de3264dfbe7f2dc793dd850e5d6a14bf3bf48e5c5ef17"
+      ]
+    },
+    {
+      "id": "local-8904d5bacf70",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/penchan/penchan.model.json",
+      "appearanceFingerprint": "18310c2487d06b675912e34ed696f3572e24a40bfbef853991c6976b0337f7d2",
+      "coreFingerprint": "4b21a09f8ce32929eb5b49612cb1e29cffc21b9dd3b4e5931f21f2a137d0750f",
+      "textureFingerprints": [
+        "a04bfd416898cc8cff2f15337e3df71ae98fab586f16ccef65d481d3a2b1ff05"
+      ]
+    },
+    {
+      "id": "local-89398aa4b972",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/bronya_1/model.json",
+      "appearanceFingerprint": "573a0ba4e14d2d8d82405496df798932f31f30e7aa6156d0d3f50f29530939c8",
+      "coreFingerprint": "b92503e84c34466fe3481f57d6cacbd153b7a81a024409ee5dd54f27862ae5ed",
+      "textureFingerprints": [
+        "a40f3de1cf80071e69f2221292d520686f046943386523c541958180dbe29c31"
+      ]
+    },
+    {
+      "id": "local-8a6de59e1fc3",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/hk416_805/destroy/model.json",
+      "appearanceFingerprint": "e17fb23da10649e5a3f01d13bd460b6e4d4319ba7ee99eab54367c420b7c47a1",
+      "coreFingerprint": "3d7e73abb0f928c607a9cd1734b4f3e61ce62ea2395b92597315253c7e971129",
+      "textureFingerprints": [
+        "4fe27fcc82f608570b89315e51dbcefa7b4e4d039c35c4d0bad4968b79a4f223"
+      ]
+    },
+    {
+      "id": "local-8c3e831aaff9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/ags-30/model.json",
+      "appearanceFingerprint": "07832037c6c3e82acf78d21a4eaedf951a4276c05e11e8ef15b8da1d28418cef",
+      "coreFingerprint": "59b3c1406f27c7eab590f9bd9fadca4fdad25b230065145545858bd762b3dbd4",
+      "textureFingerprints": [
+        "6c42bdf891359f601db2fa9a4fe22163a44f0a1c609c905ee089f5aff0dc8a28",
+        "c02d763c61e6ac1e1261ad67e62434ddff628d868e69f8e50b2538851b6c2b4c"
+      ]
+    },
+    {
+      "id": "local-8dcc18f3ca4d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/platelet-3/model.json",
+      "appearanceFingerprint": "623472d492be48468032c19ba34bf3b8913a142f2bfe083b3af00940ec203c15",
+      "coreFingerprint": "defd9f3710bf1095a7ed2402822b058f06e691df76f03258ea94cf507d2bbb61",
+      "textureFingerprints": [
+        "56689264eefd549517cb5c1f4195a22e40df8cc00e2d646e1a9a7988675f98de"
+      ]
+    },
+    {
+      "id": "local-8e79f265855b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2018.spring.json",
+      "appearanceFingerprint": "f76c3a9f5c73ecdb32451b7da024295cab8ead92aaf34a04456df63746e7a0be",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "2cf4950e44c5dbe2736c0ffb501dd6018c620e1e5c85ab76a1f3478c56193c5a",
+        "2bbc14667c6a21118c37cbff1901dd7d6fe9b631ce27d86ed237f57b9a9e75cf",
+        "c698bb0985802fa755c31b1fbd3ef6146623b3716b06230b2121747ad2d68e0f"
+      ]
+    },
+    {
+      "id": "local-8f261186e1f1",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/noireswim/index.json",
+      "appearanceFingerprint": "d789e1c7f9834da42903006b0a1eb7d16bddb501a38c7f11c79a7397368c77f8",
+      "coreFingerprint": "e7d4af5021e09796ae637f6bf1cba10392850d2b1e4747e27a43b35424d3ea0d",
+      "textureFingerprints": [
+        "014f011f1c67b2d3f587a954deaa538e5b70439844e97ce1c8694e4507de7f37",
+        "1fd82b7c2926156c42d316f85a3e7aaa68c57b220d58f47dd535091f202b34bf",
+        "e12d4488ab2be43059a55fb14c4429956531e2c988ee97116e793bce385ba5d4"
+      ]
+    },
+    {
+      "id": "local-8f8df3c4784b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/makoto0/makoto0.model.json",
+      "appearanceFingerprint": "036d123ec7aa10cd4d22f6afe85321a7cfb28e8c1cb40d4788aeba95259f380e",
+      "coreFingerprint": "62ba37e8deb165233aa1717a7aa2ce017b0538dd680cf96c55fd78496747eafa",
+      "textureFingerprints": [
+        "6d956f6ea8cd105490f1638dabed8f0c885061a79fa383f0737969e487b9faf2"
+      ]
+    },
+    {
+      "id": "local-8f9c744ac818",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/YuzukiYukari/YuzukiYukari.model.json",
+      "appearanceFingerprint": "a0faf5f7064ad2a93f9609c00413ba324f9d8c40a47f47e5ef6ea5cbd1e4fffe",
+      "coreFingerprint": "bb93f11dd70535eaf9b1f4a2686bd91415e914265b47ae6f41d439a57b22e020",
+      "textureFingerprints": [
+        "460bff20eaaf56ebf8d8beba991e4b419da9aad744e3a015a1ee695a3b373690"
+      ]
+    },
+    {
+      "id": "local-9085ca81c8c4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Epsilon2.1/Epsilon2.1.model.json",
+      "appearanceFingerprint": "2d6864726d7c49827710b7483bbec7be52e42f80a9535d57f16a6f3cf7caefe8",
+      "coreFingerprint": "643c87ff9a02e5bd076bc4373f25b57c4832bd0da375e861016a780820b4fed7",
+      "textureFingerprints": [
+        "d0dccba8908731415f8dbfc905925b0309874068ebe3ef1d39707d5c297e775b"
+      ]
+    },
+    {
+      "id": "local-90e3f35f12cc",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/len_impact/len_impact.model.json",
+      "appearanceFingerprint": "9b15c32d7be4708a569cd82582e43570cb21faaf5e29d523a34e82dad9c7d269",
+      "coreFingerprint": "84298daadfebb55bd29483a586f593235d81cd81fb79ba419f51040d9d27855d",
+      "textureFingerprints": [
+        "4efc374c0720a332157245437be9f7fd8ef4d036e058aa20840bbe2b60a008ac"
+      ]
+    },
+    {
+      "id": "local-90fde350200d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/z16/z16.model.json",
+      "appearanceFingerprint": "edaf2c0eee11bb257872ef245153045fb61480ea45e2a3e823f8aa32537d666d",
+      "coreFingerprint": "2c77dad597a1a420e1c59d60bd7a8fa00d4d2970bb4be15fe4cc73c05230ab9c",
+      "textureFingerprints": [
+        "aba012fea4d70b630e3ac1be3df1e4dddea4b6fa00667acd33f0a6a01399a686"
+      ]
+    },
+    {
+      "id": "local-910094048d51",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Pio/model5.json",
+      "appearanceFingerprint": "dbed41ccc812ceeadd1dab5e4954bd8f100b5367cd620df1f13964e3530efe11",
+      "coreFingerprint": "1545fdb296bb2d1c9c6f1c295b3a336705618aa467c45e9be8dbc9cb1ffb704d",
+      "textureFingerprints": [
+        "08e7372242579583239c4c707b49d1c3712108e6716e9cd261404855eea540b3"
+      ]
+    },
+    {
+      "id": "local-92b10c8ca50c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/date_16/date_16.model.json",
+      "appearanceFingerprint": "957a22107209941ec0d3b3457dae10bab1a96686d0892f47a1b59006e1515015",
+      "coreFingerprint": "150eb20a2aff2d79495b2028a335c23d33fe40e3cc8136188bbe1907ced37031",
+      "textureFingerprints": [
+        "a4e6bf2b0b927295b268faf662c3c9cc110a15e8c145c26b53ca54071f48a0a9",
+        "02fe67bc249ed6f9f2f3abbee4f99cbf365ccaf36c9668fcdf5001bd62bb1aab"
+      ]
+    },
+    {
+      "id": "local-93743b419aa0",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/vert_normal/index.json",
+      "appearanceFingerprint": "169386ede79b8118d0d29a1c10a90a9847ef7796b3a328418e210ec8c8801db3",
+      "coreFingerprint": "bd41a0f7d4f37e522fe96179fe1b06659942a13aea1e113f6695ecb4f1dee83f",
+      "textureFingerprints": [
+        "5a321e1b9f0e089a277c294e7828ee2f1bd62772670dbd5afc48c4a489c2a5fb",
+        "b44e5ec4a38fe9cceca48a24f6ec28d02403f5116e11ac400ead394774c1f51e",
+        "b04ff405367dca9f816bdf86e8e4405a942b0fab8c51e1a0311a69e10163a59d",
+        "3557c2466229a343cd8dce7323726e4cd87ba3c45d294a5d286dd0c5d3a06caf"
+      ]
+    },
+    {
+      "id": "local-9576dfc57483",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/beierfasite_2/beierfasite_2.model3.json",
+      "appearanceFingerprint": "c29fdbccef192e12e075a97c5ac03fbef261746d8a3f97a0ab78d0d9aa0b901e",
+      "coreFingerprint": "7d26a1c696f7de2fb0891fcf1dbfb34ac0478563f0a1a84be4763760f1af6980",
+      "textureFingerprints": [
+        "870ae69e242cd6792bcd88c770ef3242ec50e405b35bde29379a588a330166f7"
+      ]
+    },
+    {
+      "id": "local-959f38c5d385",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/chiaki_kitty/chiaki_kitty.model.json",
+      "appearanceFingerprint": "3d24a40ffb4df91eebff73e57e7b60df4439a12adfa9dab074d5eed00014aa89",
+      "coreFingerprint": "662ce5e180d06bbc622cad0c6fe27e29e01d65e57be79b8ca00ee595949ccc6d",
+      "textureFingerprints": [
+        "4210fff31a6d08fc59514a17ede4e25de5d86276ef6ef6d2cbac4035dad968df"
+      ]
+    },
+    {
+      "id": "local-961e3de66972",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2018.bls-winter.json",
+      "appearanceFingerprint": "f442ebe69516768049f7eda7be14cc7b2b0a051c049be9a3703eee601ada19eb",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "95851d8c8b4bd11088eb7a88f2d817606be704b05950c1f79dfefa414a1441ee",
+        "49aa74dd0a6cd7c4234ccc2144193844e3c1f7d212810636cd1975cb369501db",
+        "72ceecbd99b830d61ad7422e646745c70a3b9a9b1b5d3b9dbe12c3d45f9c76db"
+      ]
+    },
+    {
+      "id": "local-966ad8a3afd8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/qibolin_2/qibolin_2.model3.json",
+      "appearanceFingerprint": "864205332f4c6f3bf6b549324a91de00d5e36cbebb9571910cd92cfbf7728791",
+      "coreFingerprint": "d5bf66ce311d9ce85395c6498871633d0f12517e84ceadbb8d24dfeb4c0fb4b9",
+      "textureFingerprints": [
+        "252a4df6df81cddd6740f5a31f446898a3c754330b801c22260347db555f2ab4",
+        "17e352102c5e0305a18444fbab4088e09aacfa17b03e67b9a6d331336b6476e6"
+      ]
+    },
+    {
+      "id": "local-982991b0e2f2",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/histoire/index.json",
+      "appearanceFingerprint": "df612c04b98e11e491038cb1613fcd74324476122b78869821497b085211d9f9",
+      "coreFingerprint": "e65117dbe29c4a4e7193db601b28198093cac0171b29af5778adcd8692996bef",
+      "textureFingerprints": [
+        "372e41430b9281975e44d7e90e61f7dfbaba802d2dfe513303a026dee097f687",
+        "013cdf4e1fa8c7efcb95f1eab3c5149e505c5e5b8cdbf1cdb22d0233b4411446",
+        "d8b0ac8c4a05945b1ab8d3d1046b23fe8a37c809c6f303b29c6f5615c66a87ce",
+        "e3cb14cdf90e1604b0c5cb66d9c2e06ca9fd1fb52f8a4976ba782fc7cad814c8"
+      ]
+    },
+    {
+      "id": "local-9b324dcb9c00",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index3.json",
+      "appearanceFingerprint": "c2c39a76cd6de9b311e913f87f281046be449c7624eedc78a252698638fbe8e8",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "50af9eda87292308a9819f1c4988fdc8d0d87277471b890ce95b6383f16ba6ba"
+      ]
+    },
+    {
+      "id": "local-9bfdcbab30f5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.summer.super.1.json",
+      "appearanceFingerprint": "ee0b61cd8d0c272b444a161da81a1d7b433f5789d1b11a8d14e34db93a0d6a63",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "2f3bee50e958478cf0641c74456b54e7ea94f10cb3bd7c4538b93a8ff0f39237",
+        "fe94a4795fb3f00e50409ea886f752d574f30995327dab11a81d9b71744e29bc",
+        "f4b47ab9442840d8d475069521b5efc54aaaebbcc747d8d8cd636d9481b3106f"
+      ]
+    },
+    {
+      "id": "local-9d0c3a352ac7",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/bronya/model.json",
+      "appearanceFingerprint": "aa0a2187dbd0c10ea42a426cfc7da7b27a1c80bc1ac3f0108a5a8cd8cd773e3e",
+      "coreFingerprint": "50f87722a512dcb5acd45ba5c5c75915dfb5112c3f745bf675cd7572dc8c5cb7",
+      "textureFingerprints": [
+        "8cfba8976102f1ece14bac9539fe17a9bf12ddcfe2ae8ac6b1782eff03094bd6",
+        "9cae8bddc704eaa7c8cd5e0709174db0a8c962c7945ddca4ed611181d55a1399"
+      ]
+    },
+    {
+      "id": "local-9e0957b6ef78",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index2.json",
+      "appearanceFingerprint": "0dc2f9e642d9c336cdfd3df1eaa99784afc7b510c24dabfec9232959328d1e93",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "90844ad0cca144300cff38c1ca387243aa4dca5fd9f6269ebff428d40176164e"
+      ]
+    },
+    {
+      "id": "local-9e274dab9d50",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/grizzly_2102/normal/model.json",
+      "appearanceFingerprint": "510f519856dc0d12f62fc8c309ecf39c77ded0c616898839a2a1e02ca9ec7477",
+      "coreFingerprint": "c8ec998a8b0001a6d34c3eae2925eb52781735c857c9a7136be92f803f72f4b5",
+      "textureFingerprints": [
+        "6081b5b5dab6577bb2ed50d3d375094edcc29449e0390ef9fe3b0ebd51b8410e"
+      ]
+    },
+    {
+      "id": "local-9e9896ed5941",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/haru/haru_01.model.json",
+      "appearanceFingerprint": "5c371968331f811b07ce0339131afcbae9528fe52b1bc5eb3657880015e5ed7b",
+      "coreFingerprint": "740b38fc9299793fd1b3587b4c6d5c1a00efbe55b6a962f8e52b349ca8e7b647",
+      "textureFingerprints": [
+        "216dd1833ebcdeb20641962d7eb7565722526119c14a2c3fde867aac8512a193",
+        "c29bcf2d39ca3b4649869f596ccdc5196ec9e2aa9529f401dfbf22134a421de5",
+        "6a15a37d6d0c650864e8408d04f2239fdc79339bc34acd6c50343140575a9b34"
+      ]
+    },
+    {
+      "id": "local-9eb97471d465",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/mashiro/shifuku.model.json",
+      "appearanceFingerprint": "37b4b3db5a0a305420b406c41212f3948d5fb45b734c79083fe78d95d34ab6a6",
+      "coreFingerprint": "e160a4534e1bf6b03679981834720adc724548716ec7fe39d2bc49484b658aaa",
+      "textureFingerprints": [
+        "1bd92b6d1cb46e8db2cdb45bad09dbbcb48d66d516dae9c5ae77424c85974b39",
+        "3dc5591060e691d34e16de6af1b6202cee3da0806a3c299c6522c6062e0b2135",
+        "c2a212d05e427cf66bed3b7e98e81e3a7d9584eb6230fe23e6e65711676136af",
+        "0157e38ee54f256f9bc035f5260bc965d9ab79c72e3e538b453f11c333b4f303"
+      ]
+    },
+    {
+      "id": "local-a167546ec815",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/len_space/len_space.model.json",
+      "appearanceFingerprint": "a726a290d363ff41223ca7f2aa2d88b386e530bcfc292f8caf8c898a07b268c3",
+      "coreFingerprint": "9dbe517ff6e2aeaba33c3081043f38449f570eb4207c408bc3960666943e47cd",
+      "textureFingerprints": [
+        "0ac610f9abe474da72950515cbac1ea5bd7a5a90e79ea27c75463d75eb64e93a"
+      ]
+    },
+    {
+      "id": "local-a2aac0108482",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/golden/model3.json",
+      "appearanceFingerprint": "f905c30aa3b9390f3b2fa30195854959f63d1eb25e4892e9ce57555d96b019b8",
+      "coreFingerprint": "dc02f44aae994f65f3c6b1fec3f051bf32c752df2be464667373f18708cf542f",
+      "textureFingerprints": [
+        "6da35028a95949432139a45d39281416a983e5e0a8f30873454c0975fa9465e5"
+      ]
+    },
+    {
+      "id": "local-a2b423db180a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/kiana/model.json",
+      "appearanceFingerprint": "d6f0a973b7c0659d027a545a35b113ec41fe5da155c59383b8aec2a9ba8b28ab",
+      "coreFingerprint": "d0ae3233d54959efa9843eaccd36ea018d963d90a9e3c9bc19659eb35a2f6ac9",
+      "textureFingerprints": [
+        "b51830e9890ba28bf7c0fc0a28c8ecd717dc0b4d77bf719d755b5df5fec2d5b5"
+      ]
+    },
+    {
+      "id": "local-a43a35279a99",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/index/model.json",
+      "appearanceFingerprint": "6f6649c43df65ed50ade9ebf55b2ffd7d0244629a999032ffc2b8fdbd98fee03",
+      "coreFingerprint": "1619c072ac43a8d0530586cb6f12412a00f91c44d07a5d34dbf2d72e133757da",
+      "textureFingerprints": [
+        "380615666153f0ef4b0aede4e9d4ab8b4958a9ec81abae9b305552e025295a0d",
+        "0c713a901d3f3a4f03a22417dbc40ab6828a0083ee608a53142fbb8239cd54ed"
+      ]
+    },
+    {
+      "id": "local-a47379b829e4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.valley.json",
+      "appearanceFingerprint": "26ac9d7bf043f657464bab4af284229f24f14d10b50efb9d8c35db42c127ae64",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "9bfe5c3890aedcaf302c1fa6700bc97b03ed26395022d80bf78224d234a9df64",
+        "d4e443b6b3d084bc0f65c25fb370bf79cf23214c2a3a011575e7d2bbd3d2885b",
+        "8345730b46a3da351ccb7ac5903defdae501d54a204c9464fbfda3f0d72ac1cf"
+      ]
+    },
+    {
+      "id": "local-a52bbb186d1c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/aimierbeierding_2/aimierbeierding_2.model3.json",
+      "appearanceFingerprint": "32044487bd3f535043e5e614bcb14409636736ef2b02ae904181e9303d346eca",
+      "coreFingerprint": "50662dd3216ca078478968613514f6ec63412117691bd41b1736276699408c5f",
+      "textureFingerprints": [
+        "e811266b2b062b3e5b695cdc89417a36c55d11aa968238c90ba1fcbe2f47df82",
+        "83f36b99b48bcf17a0a94305b06c0394dd4b6da9ee1a2da6b324440b3108482d"
+      ]
+    },
+    {
+      "id": "local-a60b422bcd02",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/lafei/lafei.model3.json",
+      "appearanceFingerprint": "3d18f8c185e972d8155621e77ac7c476dbfe02d70fc7342ed5423b60bb947d32",
+      "coreFingerprint": "2484ae809d8425333e60f588b0556835dbc13d913d93d97f805a9e14eccc4228",
+      "textureFingerprints": [
+        "b3df5c00954e71f3718ebe1cdecec3697b97848eafeb577e041a8682ee6219ff",
+        "63c786594ca0ecaf7be962fbe506841773ea4a3e432400060a0cc6023ea4a2ca",
+        "19d3f5e926cd7136ca739c901bafcf2f6694ce8d7e8dff0608a9411af593f483",
+        "db5137d53fc1ea989c491e125deb34882a833dcab4935d742745d54156af28ae",
+        "5ef0019fea66db4ea2c3d66b0f2272a8642c96ff4d4fffaeb3fd8ad6e208a832",
+        "aedb1916cbb756e7392872e45f4c66c91c9bf4aafc1a79874fd5a0b3d758ee5b"
+      ]
+    },
+    {
+      "id": "local-a77fe9117651",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.newyear.json",
+      "appearanceFingerprint": "fa5ca1c78dae9e5f55ed9e4136f08b3b51a787226403760242268148ef6a3606",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "0645a9ac4f90a176cb48d21e4076c9b263714030b934cab1e4a7bc5da8fbf382",
+        "bf3e089c9eb61ccc29e8c3cb0f014d7a9401d4817e50ada48cd89b81475eac8e",
+        "6b9383340f8bb0789a9f3fd1679dc2658c9b7e78387b2754c12da99ae7c520d1"
+      ]
+    },
+    {
+      "id": "local-a8872fd284c6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/mlemk1_604/normal/model.json",
+      "appearanceFingerprint": "894f3ace9fb40799c2c23c26e187bd0ba298c292929d011392ca4e62ff0e5f05",
+      "coreFingerprint": "730155321d4a14bb6dc3219058a6c9b8b33f88b5d6bdb6fd81546feef3517a0d",
+      "textureFingerprints": [
+        "ba0642a604b01b9b94de986d9d4bb64a288e3996ffac94efee0d1bb9d2cb7270"
+      ]
+    },
+    {
+      "id": "local-a8f1f1107ab9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/haru/haru_02.model.json",
+      "appearanceFingerprint": "15023ac4da5df0bfd6f391ef84245912f4fcc58748ea0cd950ae6ea9b8b4aaba",
+      "coreFingerprint": "e76dfc7c73bc09ab9f1965306447f94b01be05b5519c3db724c171088a8c7673",
+      "textureFingerprints": [
+        "216dd1833ebcdeb20641962d7eb7565722526119c14a2c3fde867aac8512a193",
+        "c29bcf2d39ca3b4649869f596ccdc5196ec9e2aa9529f401dfbf22134a421de5",
+        "005efd48f53af14683a9622104694cdec5d0e4b0929d41525f1e6a1252408601"
+      ]
+    },
+    {
+      "id": "local-a96bf51b7f95",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_310/normal/model.json",
+      "appearanceFingerprint": "18e870f7a7e7ad89e3320dcd3b3800885cc8261da7d6ee781f5d0d77bf8b6397",
+      "coreFingerprint": "8e31b2157597db04db6cea7713f740b0f9fd6aa26aa017fde003782caa1955e5",
+      "textureFingerprints": [
+        "d806604cb25449a672900300168afee5eb7ddfd7a47a72ae3fc6e528287807ff"
+      ]
+    },
+    {
+      "id": "local-aa6ec213e251",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/fn57_2203/normal/model.json",
+      "appearanceFingerprint": "45fd1a183b20da2b28f8392b665cdb6f71b861b77e9b6a5810d3a88a4dfaac9e",
+      "coreFingerprint": "8d9d05901973736fce66920cb10ac7d0d3f5fd61f1b23b9e7b37fd3d18a3f9e5",
+      "textureFingerprints": [
+        "6ed57caf8201ae191960a9cc18371ba7784dc955fa8f221e29b4e7cb2d9f798d"
+      ]
+    },
+    {
+      "id": "local-aab083d2d00a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/lafei_4/lafei_4.model3.json",
+      "appearanceFingerprint": "d70974bfd86153eec0cb0e3f1dfdc454be0d0d10634b454acfb654d10e64554b",
+      "coreFingerprint": "e75a1bc48c771b85a16745d0ade40d24335c34f0bdb37911da18475e20556e9f",
+      "textureFingerprints": [
+        "286bba71a4bfe8a67cea525ec081abf67f58428af401e585d4b6ed37db8c4cd5"
+      ]
+    },
+    {
+      "id": "local-ac84c179fb76",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/illyasviel/illyasviel.model.json",
+      "appearanceFingerprint": "8a1abd3b17143610701105c2f70080d85104c740cc8ef46d22f6d06deaf9f524",
+      "coreFingerprint": "13fd57e431e8d131507e9de5046c212524cf3eff60727f87ea94ef9c616b703a",
+      "textureFingerprints": [
+        "e7599c3e3bfaa201384de52a60b7c285b71e985711ee6fd78a9743b8991c33ed"
+      ]
+    },
+    {
+      "id": "local-add456e3403a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/hallo_16/hallo_16.model.json",
+      "appearanceFingerprint": "4daae70c0f9a430047dc7a650737c1a36da903ab6d7a758b81809027a948dc41",
+      "coreFingerprint": "3a996dd667feefdcab06667d1e1aeb342c755ed0709c6dcbab2ea7bb33cb7732",
+      "textureFingerprints": [
+        "a4e6bf2b0b927295b268faf662c3c9cc110a15e8c145c26b53ca54071f48a0a9",
+        "fd771880fd2253f006f6910a92caba1256b8223bbb0e3bc79b4700c1f698a09e"
+      ]
+    },
+    {
+      "id": "local-af7eab806595",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2016.xmas.1.json",
+      "appearanceFingerprint": "8a0a7c392682837ad334c68005ac701083008d0ef6504eb897cdb9184756bbaa",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "dd6fc691de022fc002d40f12cf97515660f9580c19931f15f29f1c113b651e2c",
+        "2e5d688cebd2128b0350d25f0a3ad4b79f7791e81dbbfdfc0227fd665c4c0ed5",
+        "250314956c6e35fdb9d778932bc835b33dd92698af1ece454da3faef60e634be"
+      ]
+    },
+    {
+      "id": "local-b007a5e0e357",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/fox/model.json",
+      "appearanceFingerprint": "48eb7facb091f6c6baba1eb426f8385598fec554a8f1e4086ef27f5de8a90a4d",
+      "coreFingerprint": "ffa2d022252cbcf54305b6aa0a13741bad279ab7e2434899a6fb9859864af76e",
+      "textureFingerprints": [
+        "f734238519f88aa841bc7056f7be1376478f2a2dbd42022664b5d08ca8ba6078"
+      ]
+    },
+    {
+      "id": "local-b17d1847dc17",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Terisa/model.json",
+      "appearanceFingerprint": "ec34e764549783f25a020e4b6b7bc389a0462de4058fdad9545c727515179c75",
+      "coreFingerprint": "722c968666f167c1c68da665a326c29623a4a858640c51b4739277aa0a31f85c",
+      "textureFingerprints": [
+        "30e487c9251ee8ea6bda60403ef79684c16d0cb0d6f415380985f7d89c2874b3",
+        "d2a02d1226d30cf921c46054428a09097cf51d0548a82247e216abbdbe463ace"
+      ]
+    },
+    {
+      "id": "local-b275ff0cf35c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/shield/model2.json",
+      "appearanceFingerprint": "7080d41e6183ec2753bce3de704518f66b2a6f8e7fae0ae93c3ef8a125a3bb59",
+      "coreFingerprint": "0ba6e720932298a60319550db774dc26ff7430d3b6d99304cc2b3244f3260ad8",
+      "textureFingerprints": [
+        "a9ba68e1995c6fc9e5404f371d2df43cf00a5020ed5e5fca65d2fa0e789a2cf3"
+      ]
+    },
+    {
+      "id": "local-b3cdfade4ddb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.summer.super.1.json",
+      "appearanceFingerprint": "9ad8009f79db26596651956babccc078c00c3583c63fd338416b945eddde93ea",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "47fa394d86d7326a4f5f2561a9cba7e35835270eefa890755e4c92de35b3df76",
+        "2c7fa214a2e2a9b077e9da47dee22fd80750ffd3bc948ccd11c511c48287629b",
+        "979a8c30f83ea2e36ce973ad346b1ad88f55e8c5b9579d644d2b6b21679929c8"
+      ]
+    },
+    {
+      "id": "local-b44b16987692",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/rfb_1601/destroy/model.json",
+      "appearanceFingerprint": "19e34953bc6f321bec5e86675e4c9d3dd13491337bde8c401bf3074016856188",
+      "coreFingerprint": "e8a048db0fc4c47339c629a852282c56972602679c7162ce3c28d509304aadd1",
+      "textureFingerprints": [
+        "5ccddc761a6e51588e9011c7afcc416e18c720709f5bcaf17a54ee10a68628e1"
+      ]
+    },
+    {
+      "id": "local-b4964b4b123b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/blanc_swimwear/index.json",
+      "appearanceFingerprint": "bd17ddb6f6d24a4bcb35fa4b01fb1eff5b0d2aeb2ac8557990aed6fe1e6bc6f3",
+      "coreFingerprint": "4d723b3d8734f536957b9bf1eb3f620ec5e513a55500e3217d735381a3c47d68",
+      "textureFingerprints": [
+        "839f181d62d513c32c8555480bdcba252cfc89d699d7c2ee667f31585369fe7f",
+        "16d09e68820b2864aa7e66cc1ea1300f31a4baeb4feeda5ceb9eea7ce3794917",
+        "e7948cad1efcc00c5e3645cab1cf8dd2526fe5a3f64b75fe5d2cd2ab3d3e8659"
+      ]
+    },
+    {
+      "id": "local-b4e6dfd17ec6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2018.lover.json",
+      "appearanceFingerprint": "36ac00d818c911598581ad214dd05c3976654843a9abe1f16bbad5feb6e6e647",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "054717be2785696380f827933a1370e47dc477ecee47fc35f6502cf40e52f947",
+        "31d45cd60672f37ab63262596826c2390533a9778ca5eaedeb319e1a80bcfe28",
+        "ecd70feed9357925b0011ed64de9e0769a9c21c4741160d91eac405a4e6ad678"
+      ]
+    },
+    {
+      "id": "local-b7c43e4a16f4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/deyizhi_3/deyizhi_3.model3.json",
+      "appearanceFingerprint": "69f902e97d41c4641abb20ccf6c3cb067c3f995691ae8b4d8b77f0ba6023c2f5",
+      "coreFingerprint": "a8347732892e7a48f3772d4d45ae5e775466d0874185447ab9b8c44f84f239cc",
+      "textureFingerprints": [
+        "f2709a9974193f8279baa47a780868fcba246db31eb1168797ac73b8de6153a2",
+        "f07e4c63b1a7a8478b5351c6fcf23483aa56b6b6c0b79e201bf1693ca29acc91"
+      ]
+    },
+    {
+      "id": "local-b7e047abf804",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/xixuegui_4/xixuegui_4.model3.json",
+      "appearanceFingerprint": "6c3a94145530fff54875e063b85e01e2c2098f27b1f8e9189e64255f6362cd50",
+      "coreFingerprint": "2e91426e607fab6ad740d094f71692e4d422f7c0193fae20fa035363807d3e9c",
+      "textureFingerprints": [
+        "f2756cc46c621ba4b87efe4a184401fb462455636c8fa6295868deb776fad75a"
+      ]
+    },
+    {
+      "id": "local-b81f9cbe18f6",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/chitose/chitose.model.json",
+      "appearanceFingerprint": "266cd4fb96391f203c107cae062c620a112dfc4e32db01c2437ab315452231e4",
+      "coreFingerprint": "4aa92e820ae28158751cc76ee8a310716317e14eb420425e1c15c1b95f56814c",
+      "textureFingerprints": [
+        "af4c620779ecbb22a2aba079d205651a06180bc5ab935671625a8572dee8e89a"
+      ]
+    },
+    {
+      "id": "local-b86c56f28377",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/len_swim/len_swim.model.json",
+      "appearanceFingerprint": "e39fbbb558c75e4125aa807b831bb0a7cd496e48b63b3a233c8f26faa937bc27",
+      "coreFingerprint": "60f3f3f41cf2e5342989bf40c86d8b0326ce72ee81cca071189d0135f566b562",
+      "textureFingerprints": [
+        "c325c8adcc712824e9a4fb60e335d468956931e50f5778c3efc91583cf116bf7"
+      ]
+    },
+    {
+      "id": "local-ba0b62c93f4a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/platelet/model.json",
+      "appearanceFingerprint": "4a67730d349a12c98dc26817d410480745c68ecd26856af0b1eb9bb142ba4540",
+      "coreFingerprint": "3993fbeaea9cc1a12f2c9d3f62a71ab0ab2ade0de6a9d1349c7dd71bd52e562e",
+      "textureFingerprints": [
+        "44583c3912b37329c71aa511065152d5466c252ef207f1c7116f4b9be2638058"
+      ]
+    },
+    {
+      "id": "local-bcefbba4c224",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/armor/model3.json",
+      "appearanceFingerprint": "4f8f7c9b70f6ab94560ae68ebaacc852a5e1a0b7454e2016d6cd597d7fdaa375",
+      "coreFingerprint": "663b94056cdaebe054c1f044d0f4009f05f4415f3411295623f3a02dfcb3905f",
+      "textureFingerprints": [
+        "f6008ec631d7735706c0b52e2882ce4288dd33cf01cb14c8d4cba378e742e315"
+      ]
+    },
+    {
+      "id": "local-be65b3991c32",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/armor/model2.json",
+      "appearanceFingerprint": "ed3116f00b26de087d7ec19914199d9c75b0e496445672b866810e09651b9580",
+      "coreFingerprint": "7540a1c555b0336d705a03db759b67ae0ddd9dfdeb5774738a3d3f26406eb558",
+      "textureFingerprints": [
+        "f6008ec631d7735706c0b52e2882ce4288dd33cf01cb14c8d4cba378e742e315"
+      ]
+    },
+    {
+      "id": "local-be7216e2d862",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_310/destroy/model.json",
+      "appearanceFingerprint": "33dc163dc925647b24f492fc8159a82c58d52429e4b3745b1ace6edc49f115e0",
+      "coreFingerprint": "39c0b2ee618e300af6fab36f484dfa3d14d4a2809bd37c05fcda04bdba5a1d27",
+      "textureFingerprints": [
+        "c2c1b0930e6846fc30ddcbd853460d38e242c753c330a1f9869052e364516445"
+      ]
+    },
+    {
+      "id": "local-bee1df40b7e9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/mlemk1_604/destroy/model.json",
+      "appearanceFingerprint": "6d7ff1dd8e92742682bcd1f251ba07fc34f498befbf323a468c319c541ac9320",
+      "coreFingerprint": "268b442e43eb6b111a86b487a1b279b0f30f60ce5d8ae6712dc2e3405db33b17",
+      "textureFingerprints": [
+        "35dce5feb35bd4b1e665e6d16e44fc2227a560f1777f7467978a987341576d6d"
+      ]
+    },
+    {
+      "id": "local-c41f5fb0780b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/mashiro/ryoufuku.model.json",
+      "appearanceFingerprint": "d4f9807fc64ae073fb17110fff94f344992e743c5f17ae88c776e6a112d28806",
+      "coreFingerprint": "ddc651c1ad9f34e5702eb83569b6a7c0b3b49679d90fe28ec3010828e58f129d",
+      "textureFingerprints": [
+        "1bd92b6d1cb46e8db2cdb45bad09dbbcb48d66d516dae9c5ae77424c85974b39",
+        "3dc5591060e691d34e16de6af1b6202cee3da0806a3c299c6522c6062e0b2135",
+        "8d226447eeedb18b676a06cb8c078bd1c033dde3cbee5c70444f75f52b7eb5a0"
+      ]
+    },
+    {
+      "id": "local-c44404b509f7",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/heitaizi_2/heitaizi_2.model3.json",
+      "appearanceFingerprint": "552797142cd512ff9084b773d5a22a426e2f94a3986fdeffcc1de05c5e038108",
+      "coreFingerprint": "7a2298168b7724ed5bd3a31eb0a7fc4c775ef1ef817e6f2b5236ea27363bf01c",
+      "textureFingerprints": [
+        "f952bf91598747ff836a11b79dbbf50753469d83cea92297623dffd7b4f681cc"
+      ]
+    },
+    {
+      "id": "local-c4a3396d23ff",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/chuixue_3/chuixue_3.model3.json",
+      "appearanceFingerprint": "b0545705b490d8d632a31a318a9fc111cd882cb9c7007daf6ea118e7878bb37b",
+      "coreFingerprint": "7ea268eea0eb2b088c65552fe469c98f1d4febce24c9173e13d7d359d40140b9",
+      "textureFingerprints": [
+        "0b87b38c30ec02673917c91712c0e2f13a480e44fc0c91507c0def3ce6b09b32"
+      ]
+    },
+    {
+      "id": "local-c677f4738e50",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/noir_classic/index.json",
+      "appearanceFingerprint": "e23a8bd9b683b6dc0d7c4b47e69b3f82ae8d20ddeec2ff2d9a7c1f3ec211e213",
+      "coreFingerprint": "b7c4213a260ef89f67af6e8334e74f8740b6676e573aa5335cb637402d468b47",
+      "textureFingerprints": [
+        "014f011f1c67b2d3f587a954deaa538e5b70439844e97ce1c8694e4507de7f37",
+        "1fd82b7c2926156c42d316f85a3e7aaa68c57b220d58f47dd535091f202b34bf",
+        "5b336d1ed662075235e2d8f41f8f71d7bae7c53a56ab3d21ccd497d4f1c57d27"
+      ]
+    },
+    {
+      "id": "local-c8a5cb59a3ac",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/dsr50_1801/destroy/model.json",
+      "appearanceFingerprint": "e6b3c1db886536525449ed5ac9a6808fd1198fb944818ebe33dfb0b01d3e90a0",
+      "coreFingerprint": "45099fe16f2fec1f438258b1e200ff2f2320ecfdc6e6f36aa71364e86fa4a411",
+      "textureFingerprints": [
+        "f1164caf226e3439ce2a4858d2dd8cd2f0c421d3c31f83ba3f9d1e98c7bd23aa"
+      ]
+    },
+    {
+      "id": "local-c8ef947b2730",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/nepgearswim/index.json",
+      "appearanceFingerprint": "0f141b6f3d921c394eb34de081dbcb671a846f1c2405526bcd3a013c8326aecc",
+      "coreFingerprint": "23aaad94588b1677ea74e1d4638f45a370591f64f92cb40d0f4c2676628ae874",
+      "textureFingerprints": [
+        "7da9eee5cd65c12408d616d179a9e70ff5e18330d9257c97cac4fbf5c48280e5",
+        "68a4d80bf3c3b9470819f851816165cc738ad6f4c753ffd6cf94655858ac867d",
+        "35b70408ad870ab228de6fbab4889910ca8a7c1f8568ce7b890483ee9db89127",
+        "3d80ac8e7ab0e6e6f3ee26f080fe4704ed26a7e7dba5fae635d5b7d3308c673b"
+      ]
+    },
+    {
+      "id": "local-c9cc3bf7d0a0",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/ots14_3001/destroy/model.json",
+      "appearanceFingerprint": "6612b9b421fb921de4c6cab72a0c22ec7ce016cd2956b83f62d9424ac299c478",
+      "coreFingerprint": "97cf2ef374f505737ad201f8a1e52b580e548ba9df035104b61104aaf80c466a",
+      "textureFingerprints": [
+        "5ea3d2027237df54a9c01e5fc13d0000979b960e46cdf182f1c7044c1a9baa1a"
+      ]
+    },
+    {
+      "id": "local-ca3e721348d9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/sin/model.json",
+      "appearanceFingerprint": "bdeb2641481eab0268112389fa4d6c34e68abaa507280d31aa7c84b07ee979fb",
+      "coreFingerprint": "6908961f59dc99f9bf540c3f24c7d2013c1c23f7ebd03252b545b0ae4fbc3b62",
+      "textureFingerprints": [
+        "50d7083f12643d164285d5e01fabd473b4d87d523fa4db912b05a373205b192d"
+      ]
+    },
+    {
+      "id": "local-ca80af1378a8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/yukari_model/yukari_model.model.json",
+      "appearanceFingerprint": "12278daf4d4b93de6032c5588a44f4dc022d57c1a7c7f241da0f6c095bed81f0",
+      "coreFingerprint": "e1bbf8904937264c7a53f88c6ba54955461bd39a3039910e09c274983362d7ad",
+      "textureFingerprints": [
+        "12bd64113b7f88f0f52c7ae2876e0a79042f83cd6c6d75ddf2e16f804aea7ff4"
+      ]
+    },
+    {
+      "id": "local-cb23c2f88ee0",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.tomo-bukatsu.low.json",
+      "appearanceFingerprint": "90234ac14ad06a58ba3c438a2ee72313446259f56f21ecd4ea263052bdd88f59",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "639d6ab5909f9beeeb678ad76babfc2ae39d63d311183a1ed47dcde62dbc51c7",
+        "9c78c48ae07f47c89a58dc481ade0818fc2bc2a18a5a961445d7588aefe60737",
+        "f5bcaafcda6a61078136efa8b68a4b25decd8f1d0413f80644a66bbb6822bb1e"
+      ]
+    },
+    {
+      "id": "local-cd6d6b2478e9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/iio/iio.model.json",
+      "appearanceFingerprint": "d5cb23b83cc0b3269e500a9870a9484f18e7ceff830c173aaf5919da8a52bfa3",
+      "coreFingerprint": "a828448c0d5bed4a4f7e5fe02551df32096f387d4a8e42521536f30d6a83f252",
+      "textureFingerprints": [
+        "846218d3f91c7ce1710435ad18e50245402c6f40922b1fdef5524d68fe23c4b6"
+      ]
+    },
+    {
+      "id": "local-cf8504242f89",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2018.bls-summer.json",
+      "appearanceFingerprint": "907a8c0e4ef16fdca046600f3e20256d49b9e1082efad31ee7342059ffed8420",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "141cb34415120f05a4252989c2548339150ec933c681cc14859bfe77dfa909ba",
+        "36b9cc7e33b4750ed6311a58d57da503bc6ba64746c6b4ec526042f04d4610a2",
+        "f52de1ebc5e9d79e9cb211a181eec1f967e7df134424015ea682a382e7320691"
+      ]
+    },
+    {
+      "id": "local-cfa1c78faed4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/xiaomai/xiaomai.model.json",
+      "appearanceFingerprint": "ff1a0f411dfc0e1d14ef498944cc8ea42b23c491f23781f0b1f1a0c2d94b397c",
+      "coreFingerprint": "06263ac2e84e8d630061185addbd84ee519f6b1b72880088c31fad9da1960b98",
+      "textureFingerprints": [
+        "967729657c713ab305e1902acf2c5953a708f8a84632f71b04163febc87445a6"
+      ]
+    },
+    {
+      "id": "local-d0220dfa40a1",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/blanc_normal/index.json",
+      "appearanceFingerprint": "a8cfa511ab499824859a40f561b6f2523f1bc952acdc4ec1734372b9a1898386",
+      "coreFingerprint": "29700f3307f60f1cf7d89dd247ba8d0d25069827d1ae457853847a8e6aaffbf0",
+      "textureFingerprints": [
+        "839f181d62d513c32c8555480bdcba252cfc89d699d7c2ee667f31585369fe7f",
+        "255d7c89ceb55d534812ca83d217d603abe9daad03fd247e242170da0d834c0c",
+        "4a2758d8a33c9e3ceff1310bbbb399e94aebac8ff468a2f6f197b3a34cefed43",
+        "b33a7d90b5b4296e840210395f995fed171fda0a4a555cc17017799ad7fdf6a9"
+      ]
+    },
+    {
+      "id": "local-d0defeb18ebd",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Tia/index1.json",
+      "appearanceFingerprint": "a5ad4daf02a9f4fbcf78f77edbfb871edf17020748407358aae8c88eb42d8eae",
+      "coreFingerprint": "f19c7a20bf7eafcc1ef303b9c9c52d0face97aa0990129aeddec8d5e089d1ef5",
+      "textureFingerprints": [
+        "db8a00267d06af67f33f473d6cb3fc591c1170921f591bfd0caf7f180d555f65"
+      ]
+    },
+    {
+      "id": "local-d103f5d2ee26",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33_high/model.json",
+      "appearanceFingerprint": "8880349f1c2a2c7d21629c5762a905dff4d2e3a7e08de34463a6c37775feba6c",
+      "coreFingerprint": "01da2c957d77fa1a7805d2ac8483a56c02ba97d1968e8dd5d7780301f5b6f876",
+      "textureFingerprints": [
+        "3bc2b58c5fca8aef1deec3e8b39b01567e7b4825b876e46922082196aa2dd5f3"
+      ]
+    },
+    {
+      "id": "local-d1e74cc90de9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/tsumiki/tsumiki.model.json",
+      "appearanceFingerprint": "226bc2f264b321e498b19f560f239839c8409ec07067b074aa15394f38429d6b",
+      "coreFingerprint": "e09b67df5f981a8ff5f887bf70214cbdf119c14f3f3a2989dd3980bd6ffb1f49",
+      "textureFingerprints": [
+        "48de99c3231c5278d632cdb7aac782d3e0ddc92a31a7c38c33573724ad05c447",
+        "f9d8beaad5175e1747d3150b00a3e4e69cca57b6baa3a4146e261debc2c8187d"
+      ]
+    },
+    {
+      "id": "local-d3374d15bb2f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/Pio/model.json",
+      "appearanceFingerprint": "26154eef555b557a3eefa2a2df336ebfb582afde9049efcfc14008e7a9b878fe",
+      "coreFingerprint": "1545fdb296bb2d1c9c6f1c295b3a336705618aa467c45e9be8dbc9cb1ffb704d",
+      "textureFingerprints": [
+        "ceb6b0fe134dcd713fc771b3011a87f4f23b7abe559aa1e0c78c4e9cb0cffcb9"
+      ]
+    },
+    {
+      "id": "local-d3fe7c3d4a3c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/moon/model.json",
+      "appearanceFingerprint": "60e04ecabb1fd61174d388e7b1b652229a7a2f7ec852df386e60c394137ec146",
+      "coreFingerprint": "5fd473d522338bdf3143a8b7647e905ae2220afc7eee3696bfab0bc50fdb63b0",
+      "textureFingerprints": [
+        "f773f67a5482db05adef37bdfb4fc5b51205aa731c378713abab6c6759ff44bd"
+      ]
+    },
+    {
+      "id": "local-d42f7c383c90",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_3101/normal/model.json",
+      "appearanceFingerprint": "383b0178afa268ab621521fc5f4742537dd49740dcd853eafc3cdb256ceaddf3",
+      "coreFingerprint": "834d2b0fecc7f58eedba15298421e1cbabf150cb09ba508de7692140469eaf48",
+      "textureFingerprints": [
+        "1ed33ca9fc188817b65c50090a385b61a1e718d171d0b82f48c0262f6713d14c"
+      ]
+    },
+    {
+      "id": "local-d5abe19a0531",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/gelina/normal/model.json",
+      "appearanceFingerprint": "a63ba2bc105ea3474c4c0b13d40f87cd04988f4b97bf49698ec596099067b928",
+      "coreFingerprint": "059336b33f338bcf2c7a56f0b54fda3de75de0b5bc72576f9929de874b28aa59",
+      "textureFingerprints": [
+        "3b52979c171bfcfa141c1ed82276401c1f6562ecc76e299f8c264ea6625a1129"
+      ]
+    },
+    {
+      "id": "local-d695af19bd92",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.cba-normal.json",
+      "appearanceFingerprint": "12a5946a482b44828cf353490ef2303aa7536d8b1c1f4565482a79d31b00ccb3",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "83907939c530b31358bcf4b62b174ecbaad5fa98f76ee12f143653fab2d5c84d",
+        "340367f5bef179b23444aef913a310460f9cdc727b6657002e136ec0b2115594",
+        "679793cfbadf23661822d3920d671d7e438d9888c92e3dbea1917423ac812885"
+      ]
+    },
+    {
+      "id": "local-d6d610c47c5e",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/snow_miku/model.json",
+      "appearanceFingerprint": "38d03930dd0900a2aa09bf8323c2c5326bd21e2db417aa0a2afc33c79bf2f20b",
+      "coreFingerprint": "7cc632597eb36eff64bc15e0cb4236c9cfadd194ae80c6cba7c37091ca68d963",
+      "textureFingerprints": [
+        "ea49b7e2a7f5d207ef57f83c58d1638f3664efaed9d9bf7d995e7120dede1e9b"
+      ]
+    },
+    {
+      "id": "local-d97634db88ff",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.cba-super.json",
+      "appearanceFingerprint": "1f85e42ee67e935fad7f3162ba0ff47a097a4635e99c4cd78e660d129cc9aa31",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "3b1600c6c95f0c5bd27de5d46f88c0907925c32edac95b1b9908f8af157ccca5",
+        "ce5923947988723df9578b6946bdec0b22ae2008c850e4c28fb99da3f2a1cca4",
+        "679793cfbadf23661822d3920d671d7e438d9888c92e3dbea1917423ac812885"
+      ]
+    },
+    {
+      "id": "local-dbc3498d7e37",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/ntw20_2301/normal/model.json",
+      "appearanceFingerprint": "63f369cf680b6df0a5b537202b94d239c90f85c135f33e5a0c7afb91706eb9c4",
+      "coreFingerprint": "2d99ec9271b70b5e63e9f4b2ce6f5b10c4ce82882e8bbcfee9863ab22fd5c094",
+      "textureFingerprints": [
+        "a84cedd895d41a111f024051d1022ae90c5ba1c8f999d2f43f58b365e815d357"
+      ]
+    },
+    {
+      "id": "local-dd1b8c877d2d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/g41_2401/normal/model.json",
+      "appearanceFingerprint": "5e6f0a015c5fad9bbb30aac17c030d447258f3f79cb1d41b8b4295b6dfff0d8f",
+      "coreFingerprint": "ec3ab7df82059563f336b1a1422e687545bf3e49c3f23c5f594cd71b5cd7c8ef",
+      "textureFingerprints": [
+        "5663d18dacb7ac29a0baebb2a0cc3e4faa8ae3548557eca2e9e9c80b240ff3c4"
+      ]
+    },
+    {
+      "id": "local-de72dce6274e",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/miku/miku.model.json",
+      "appearanceFingerprint": "363c0a19a06d2b265279af0260bdf3c8807857c999effb4e2ae8652b337ea699",
+      "coreFingerprint": "192b25cfdf459a00b7a6b05d26811ab52c9784abf5c5efde676bdf2e044b4bbe",
+      "textureFingerprints": [
+        "d9468e2b09f8119ad7a0d2a09a69448b34f6037bdf34e6cfcdd7febbfa20dfab"
+      ]
+    },
+    {
+      "id": "local-df99ebfa70f0",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/type64-ar_2901/destroy/model.json",
+      "appearanceFingerprint": "c66b4123360a15b2f0cfeda48e8222efaf84e4f3c8152858c248993e5c699ca4",
+      "coreFingerprint": "03b02fb69c615cb7805dab157033af9e8c13587302473d8777ef5f25e700ebe4",
+      "textureFingerprints": [
+        "122b4b66f39b46c93cfc13ed9aa570b48fa92b80bce0a5aeaf581d3ce0fb4f7d"
+      ]
+    },
+    {
+      "id": "local-df9c9933477e",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2016.xmas.2.json",
+      "appearanceFingerprint": "851acd23f57120f50663c4cbe8df4d1e876844c885c5f3b711a87d93a82b490b",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "fbda3454061e461d373929ee7c5e038b5972125cb95e34f866576c2897995b83",
+        "3d6bee15852e0bd7463760812e8a42aa0738035b3c19b9cf4c61432d1321187d",
+        "dee367da4c3d5f2371797d6ebc76528c47e7831c4804968454e5158e8b683c6e"
+      ]
+    },
+    {
+      "id": "local-dfa0230a239e",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.tomo-bukatsu.low.json",
+      "appearanceFingerprint": "932479d648715939d84e82bd9137d3cca34b6a188b6d1a99a8c4c8fc46e3fae1",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "2e87a8d3abd1e10906310dfcca81419c425b10186dddca8273066b830fc8c264",
+        "064fff95ec0b5b809aa200fafa7a3d6516ebfe457dbaf80e8d1bd62b99203107",
+        "b1a72e235bcc5b9edb38f1154749b9e273dda179aa9f01461fc9d9b233afecd6"
+      ]
+    },
+    {
+      "id": "local-e0a4fb25d7ea",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/noir_santa/index.json",
+      "appearanceFingerprint": "b6e0b6810087d3a850cb2687a3d4dc4abb98b1380b941a588dc86fe73dd8a5bb",
+      "coreFingerprint": "58b35ca59377f687e84eeb1fdd87ade94a419d803fa13691b32fade71bdbeea0",
+      "textureFingerprints": [
+        "014f011f1c67b2d3f587a954deaa538e5b70439844e97ce1c8694e4507de7f37",
+        "1fd82b7c2926156c42d316f85a3e7aaa68c57b220d58f47dd535091f202b34bf",
+        "73cf6a5594cc47ea75a3aeef26d601244702d50c68b67b64ed4684e4debd81ee"
+      ]
+    },
+    {
+      "id": "local-e2f2fb017aef",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/huonululu_5/huonululu_5.model3.json",
+      "appearanceFingerprint": "73f893455accbd58a3acaf3fe648eb25778bf7176e605477d70ab1e243c1374b",
+      "coreFingerprint": "c2488268c877f770e45b7a37637d09a269ca70dbe188cd1b0cc922a0be71efc7",
+      "textureFingerprints": [
+        "f4477b921229d5f22bbb7cead96b54716e2ae2d027df9652a5b343ed366ea8b3"
+      ]
+    },
+    {
+      "id": "local-e41a0c815c71",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/dujiaoshou_4/dujiaoshou_4.model3.json",
+      "appearanceFingerprint": "69a0bfc34461c65c3c2e186ac512cebaef6a233d8b0915e18e7a769bc65b7ec6",
+      "coreFingerprint": "305408483044f127c3be95f1faae6366c36a573b1abea5c6f9ff8e2735e93dee",
+      "textureFingerprints": [
+        "16d7311cc7caf16060119ad7553c6701aea2528164cb21f4112f1eb86ddacf41"
+      ]
+    },
+    {
+      "id": "local-e42d6d8467a8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/dafeng_2/dafeng_2.model3.json",
+      "appearanceFingerprint": "9fdb5af8ec929a178d974a10607ac0d679b73dfdd5ed5e720ecdbfd52f6ecd93",
+      "coreFingerprint": "ea81929cb0d4852d11fc83bfba4f333b538e0115f08e7f096337e3bdde5196b3",
+      "textureFingerprints": [
+        "ab2b159dedc8661331208b9948f23d18e7d78dd3192474908ca2f8a879a51c0f"
+      ]
+    },
+    {
+      "id": "local-e4c449d6bfb5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/m1928a1_1501/destroy/model.json",
+      "appearanceFingerprint": "61b76ecc380b9ea95dc9b3e51b29f818c9c20f90ae740db8e0ad02e8ab36ce43",
+      "coreFingerprint": "249705b90f2297c95ab7c237f37f520cb61213bb55634b1eb2665696d78d5aaf",
+      "textureFingerprints": [
+        "c1607f840b775fcba8bdec1092d65b7d881c25af78a9e7918387baac1c461323"
+      ]
+    },
+    {
+      "id": "local-e557444e1401",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/px4storm_2801/normal/model.json",
+      "appearanceFingerprint": "543eb9be61265190f793d50426a1668daeae7f6161aeb4b78bac931c99d98b75",
+      "coreFingerprint": "23da96c31daebe17e2d2a4df526807c0fd8510eb44a6d03a6cf27682277693b7",
+      "textureFingerprints": [
+        "a0f0457ffec6a8a7e1404a0b82d994a70fcbf64c97e68385734052debeb5f8ac"
+      ]
+    },
+    {
+      "id": "local-e5cb8f0d16ef",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.vdays.json",
+      "appearanceFingerprint": "c2795ce96f2fcc21740ae3a10b94f2c8670b5fdc7e677f646cf71eff29e230d6",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "2071c0cb648eb0ec88e0efd15d258897c4179d9f231d38473bf359e22fd109a0",
+        "b87a67eee71dfa7c56866e2a18e6e565916670ae55c1394f41bcf0f5a37b7109",
+        "752d99fa9486cae741c83dd6485576b7e25f386118a27029d9de261b8f3d54d6"
+      ]
+    },
+    {
+      "id": "local-e5d1a280c008",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.summer.normal.1.json",
+      "appearanceFingerprint": "a25d52e43cabe2de865b9d7b4f4726d67c8c28779431ce47dd67fc90c061a7db",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "f1a2f9dca91cdb62f87e7aee2224e1616a8116a45de14a6598945bdba5527dc0",
+        "1840bf09b07acef15abcbbd04cbd0bb742f06214186baf0acf132c1b9ae0f4bc",
+        "f4b47ab9442840d8d475069521b5efc54aaaebbcc747d8d8cd636d9481b3106f"
+      ]
+    },
+    {
+      "id": "local-e5fbd921e84a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.summer.super.2.json",
+      "appearanceFingerprint": "b7a99500fd9bfce39824d2d8ff224976b065f98a96915db3a1e41c18b6447264",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "2f3bee50e958478cf0641c74456b54e7ea94f10cb3bd7c4538b93a8ff0f39237",
+        "fe94a4795fb3f00e50409ea886f752d574f30995327dab11a81d9b71744e29bc",
+        "bba9d493956227525fad50e429fb766e89893b9b37980584ed4e3523c473926c"
+      ]
+    },
+    {
+      "id": "local-e65ee502a66f",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/dsr50_1801/normal/model.json",
+      "appearanceFingerprint": "f059016112235c42462e198ae62bd33874d5067bfd27893d19efa3e07f3a7959",
+      "coreFingerprint": "c4c552c4a3166f62873dd5ec1996140848ae353ce5d6de5d56f5bd9576bd0a22",
+      "textureFingerprints": [
+        "1bb95f8ae26c1ef71fd5bda33c7b3e87512473bc94af24656841f71d3321a716"
+      ]
+    },
+    {
+      "id": "local-e6d6cde7c6b5",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/theresa/model.json",
+      "appearanceFingerprint": "34dc5ff56c659052f8415325637e7b30cd9f2059b3727d6f3faccc4b72a26801",
+      "coreFingerprint": "c0b55d1d6306e3928f2db4af4bf4ff83d9aa63548c5d9248f1131dd6fdddd277",
+      "textureFingerprints": [
+        "4ef8ebe8ea1c876bf454f700db7dd68b9ad6445325b31c1668776d3f0b7ef2e1"
+      ]
+    },
+    {
+      "id": "local-e6faee639904",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/saten/saten.model.json",
+      "appearanceFingerprint": "591e793fafd415025e5c6a2012fe8a8122d826756841081f46681d48d1782e10",
+      "coreFingerprint": "76de7876d85aa3bcd281c80e1701884a04506f143f5ac0d1b151edf3444047d4",
+      "textureFingerprints": [
+        "4e5c2a846f69dc4ae774bcad89876b8fed32323d525f7c5517178b2728840f4a",
+        "aa1b7950c75c402e522c94ed21b13bf910aa2bab33c527cb3144c7079bd402a0"
+      ]
+    },
+    {
+      "id": "local-e7aff0c79cb1",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/himeko/model.json",
+      "appearanceFingerprint": "7f0850c158d49dc24d9ad3e9c9c35a9279fe6c506711755338333b28ecacaaa9",
+      "coreFingerprint": "e5a2b3ca205de4b9ec5dad2672f72fff5dd1974f5a694fd8bea1a6db6120acc7",
+      "textureFingerprints": [
+        "bed05de7722b85cabec201ab9c34b4cdfc991a282215fe062939804dc9755fd4"
+      ]
+    },
+    {
+      "id": "local-e9669ee45ebc",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/88type_1809/normal/model.json",
+      "appearanceFingerprint": "6ef7f7d276d0d12947cbb8f599cf8fb1a22aab893e5891827fbf31d9b65034aa",
+      "coreFingerprint": "2c35f4ce71b7828dd1629da1e24c820f9dad1153b67f95e1d8a25344827c5ed9",
+      "textureFingerprints": [
+        "69919909eb12a431e0eeb266278b8bc4e86809b9b897e1694fca05316506b096"
+      ]
+    },
+    {
+      "id": "local-ea08e8b1eec8",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2017.newyear.json",
+      "appearanceFingerprint": "3a6e87100dad851ac746be7dbc3d85afff899a719c091dcb37d2d362112b501e",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "8148342452c0df76eb9b6f6da2b43332049a05b34e07f7c93f2b34cda58a05e7",
+        "e85a9221cc1fc34c64097342fb874d0108a5f462869b3188cea664b6397b1ffc",
+        "c1ff3a786e27560828413ff106a27d63badb05af0a3338728dc8e33516cb19e7"
+      ]
+    },
+    {
+      "id": "local-ec54a7901b9a",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/sat8_2601/normal/model.json",
+      "appearanceFingerprint": "e69746259509ae3ee85c157571aa80e62fb11bca5039095958f0f5eb8d6b44d1",
+      "coreFingerprint": "17c7f9ec71c5daaeca5f4c1ef130c6871aae0eea9037ab2d611fd242e2391190",
+      "textureFingerprints": [
+        "c6e23c7e6a50fcaf17571b82092ca13b6d0ad928fade0ec9ea47468834f73b45"
+      ]
+    },
+    {
+      "id": "local-ed37f140f327",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/banrenma_2/banrenma_2.model3.json",
+      "appearanceFingerprint": "64c09a84506b7657df989fc7c21e61e6e4f875c671190179f625c5012218593e",
+      "coreFingerprint": "ca804a1719504c4efdc253a9904473dd52b09b32596c9f70a05b14c7c245c27c",
+      "textureFingerprints": [
+        "ef9e77ae9602bf1460f03ccef41ced96db5769cf061345b251b5c90778004a0d"
+      ]
+    },
+    {
+      "id": "local-edf201cb98cb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2018.bls-winter.json",
+      "appearanceFingerprint": "00e087bc412dce19d136ff475592f1cb56eb2cb55c178160b59789dbb74bba87",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "1d14f5af452c4ec5ddd393ae2de0a3c5a54ba6de922b4ccb339ffa9545453ff5",
+        "fea20864df022a2a03f6cb475fd32c04df7cf0995bb00dd7a57de11d8b479790",
+        "aa272cacfad21c89a3bd95c88cfc533e1365fe62a93b4c4bd1a4a2fda005e414"
+      ]
+    },
+    {
+      "id": "local-f330997d83f9",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/rfb_1601/normal/model.json",
+      "appearanceFingerprint": "d3418405469c3a1cb2e62b6b924fd7c9ba95cc934823ee050eda79cfde2d10bc",
+      "coreFingerprint": "3829fe2de9e8ce5be415a7e53a10fd172626dbf09ad00e155a54cf297ab0526e",
+      "textureFingerprints": [
+        "62a013bacaf761229b6c331d3ef86dbdebbc8b311728e7f93f5b486ebecfb086"
+      ]
+    },
+    {
+      "id": "local-f37064a594fb",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/neptune_santa/index.json",
+      "appearanceFingerprint": "eae95a831bd691631bc5730a42396c27c2c805be4077bdc0719229af1a28a001",
+      "coreFingerprint": "1c148400a6e2ce0882655cb08b41d5c53e874a7863dfbd4625b0066cf7c59131",
+      "textureFingerprints": [
+        "dec289a87b18416499b1538b93a39b590f0c50e7967b46366a6d83332bf63505",
+        "2403cc18eb853f5743a9d731804ed98130ca87c5d7bf718603159dbda5bf9567",
+        "b8714f642aae46f834a8d3dec39563b1df924275124738a8be4b41c997c9a839"
+      ]
+    },
+    {
+      "id": "local-f37929291b95",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/hijiki/hijiki.model.json",
+      "appearanceFingerprint": "3a3d1f79ea4c3259c0de3f0d00253c4be5e72e57ba7eff3929ddb37e1c755440",
+      "coreFingerprint": "ec50318bbecd05757cc33d4537d32787f87edfffa3a65bc746fd15fd17f44c00",
+      "textureFingerprints": [
+        "ced7e3792834c91fe8220a56fed049264b31f0ea614d20651d21d7e6ec2cd493"
+      ]
+    },
+    {
+      "id": "local-f552fd272014",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/ntw20_2301/destroy/model.json",
+      "appearanceFingerprint": "b62b9f2d31c1b6492c687868467ecd678be49bc214eec15ac013c77615dc0f5a",
+      "coreFingerprint": "6f1c72fcda71cc2a2f032c4d19da4368c92a0d2d3c15d054c8573e3588030518",
+      "textureFingerprints": [
+        "2ac17c9af19a6e9261c9b41d1eea90feac5ce1dab45dc0466e19a8195c8f5ebc"
+      ]
+    },
+    {
+      "id": "local-f5b489690d9b",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/95type_405/normal/model.json",
+      "appearanceFingerprint": "fc122d9e4dcc9c4e5613958c5ed34de1d6a49c0d26112103da8991e03c781559",
+      "coreFingerprint": "1c1f1fdc44ff13a2f8bc45724a87d935e02a4a0da0e9c69f700357fa48c6047f",
+      "textureFingerprints": [
+        "5e2221bf7a2eeb228a876b8d3c37132952d3a3b88bf0a16d19938038004b011b"
+      ]
+    },
+    {
+      "id": "local-f68ed3c40c57",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/fortress/model1.json",
+      "appearanceFingerprint": "867798ec784599125c4e126c328f788cfe068b42a2d5e6ccfbabe2864c884b3e",
+      "coreFingerprint": "e441bfb2f3a98d89bd7f19a9c1639645b47d880764f216e42c88fc3dd4d915cd",
+      "textureFingerprints": [
+        "d1f21fec9dde33622e2eb3ce71f739b04a1e3f5b041b68c1406c8601062e3bc0"
+      ]
+    },
+    {
+      "id": "local-f95171fcaf48",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/22/model.2018.spring.json",
+      "appearanceFingerprint": "a8aa332cab372a1e789a924c07ca1308c23346774849ebf0cea29bb72530478a",
+      "coreFingerprint": "732fa2ce7b61485222a235c00aa43d0f3de4a1a862920f729fa29dc82295a80b",
+      "textureFingerprints": [
+        "54eea3ab02c7401fd85bda2162682a57abab1d2f88c8c03aed80f20f5de55b99",
+        "6a8b7d41724e222a069ceb2f8505b25efd03c8ee9f3e2186faf8e9a28aaf956c",
+        "73ac36ce3970f47b9ad14978cc8cbc3881e2dc1a91ceecb6e0b5b16ea6d4f8cb",
+        "523d06473eb315f03c7710001b98783226f7bb354d09caa53fa7d0fe315c34cc"
+      ]
+    },
+    {
+      "id": "local-f9dae2b4b16d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/HyperdimensionNeptunia/vert_swimwear/index.json",
+      "appearanceFingerprint": "545a3a02f8bdcc5cd6aa33ce89cfd66fbefdae101eb8e5eabe4e07fb538b4bd8",
+      "coreFingerprint": "f269aaa26fbe4bae44bbe775f70764cc507a19b1dd500a5ac3d57aec556bfd80",
+      "textureFingerprints": [
+        "5a321e1b9f0e089a277c294e7828ee2f1bd62772670dbd5afc48c4a489c2a5fb",
+        "b44e5ec4a38fe9cceca48a24f6ec28d02403f5116e11ac400ead394774c1f51e",
+        "faac030d59d02eef5e290c9d55ed1d8fcd3b0c25c4711b0a29359123099a74ec",
+        "0b3fd3a73f724c834c9309ee20856b8fca8d40552292733fdeacd7809c53a13e"
+      ]
+    },
+    {
+      "id": "local-fa1e2c564c99",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "live2d_3/model/Azue Lane(JP)/z23/z23.model3.json",
+      "appearanceFingerprint": "46e816fce94a0b9d63f6d917dbe0c391b404811b23e4284e489c2b0d71159da3",
+      "coreFingerprint": "b5caa68201ba20d66c02af4a7f44ec764ce96c1f96a9d2b047d727958c65898a",
+      "textureFingerprints": [
+        "78995d981896c16ab0552bfd1d512028720a43488973a79b4cd30b1b50a820cc",
+        "57ad4b89086e3d6460b52d32592a967a2550c440a9390df2482b99b0af858ed7",
+        "081e44a887fab16d8709c504c547f27f08e373b0c967a731cd0e6a85127fd159",
+        "5e6bac2dfc02134769ca230946a52805e6ec4e08eb038798f9a8a0d57bb5c6cd",
+        "1faa13e753c685d4377b2af30c8688de513cc90bb6122d65dc81115a4b2ca6e4"
+      ]
+    },
+    {
+      "id": "local-fb1377ac867c",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/armor/model1.json",
+      "appearanceFingerprint": "049650ada6e678334277e3538ecd3c92506020a527c8c18c68447c26684f1091",
+      "coreFingerprint": "ded677a924c22dd93c9d6c6dc91ccef45a5f93992518dab8a04886bed648d190",
+      "textureFingerprints": [
+        "f6008ec631d7735706c0b52e2882ce4288dd33cf01cb14c8d4cba378e742e315"
+      ]
+    },
+    {
+      "id": "local-fb396eefe0ff",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.default.json",
+      "appearanceFingerprint": "0d60321162525f645576f3a94765cd89d75f16d1f76ca9050f0682f70329d863",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "1d28de9fadb544961b31896d616632cfd082a1ba371193b417a3993e11013d0d",
+        "abc3576a3b95f6e7500bfdab01b814156f5307a802cd3b7c2a709df381481c5a",
+        "4e1d6723a595590a531fd3106882dd3e2b98973e91c60f42601d3706edf54f1c"
+      ]
+    },
+    {
+      "id": "local-fc48c9dcc24d",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/dollsfrontline/kp31_3101/destroy/model.json",
+      "appearanceFingerprint": "f45004232fdecbce83bfe693655e3592198b3d32c9b67632aa29fe88b3741321",
+      "coreFingerprint": "116cd097dd66abc36cb656a9cdfb9fd06d703e072f407b4f77771a37e553920b",
+      "textureFingerprints": [
+        "debb3e1b9416f73473f5a3534e3bdd0d1bb80f3e4f53c2e6a1eef84ae5acda21"
+      ]
+    },
+    {
+      "id": "local-fcce62f77537",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/liang/2.json",
+      "appearanceFingerprint": "5b90cb76c8cfb7788854212262d3c7bb30eef6a1d7330f496d2f8ef0e5859299",
+      "coreFingerprint": "8c00b1d65165bdedd9465fdf5721013cb4d04ad08516b6d27b4a16cbfa62347d",
+      "textureFingerprints": [
+        "8ecb62e24f70ef9fe0d0fadfd39b78571e89897a4fb5a206dcb1d67ca387b3bd"
+      ]
+    },
+    {
+      "id": "local-fdbea06e77f4",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/33/model.2017.cba-super.json",
+      "appearanceFingerprint": "ed2a48509f8def215a5b42b61d3e0f97765c3c82a130e7b78157090e284b13be",
+      "coreFingerprint": "b16e38bacf8b22f4121c081d7f110a64cf700427a815c2478036738898488859",
+      "textureFingerprints": [
+        "9470430dac6a21027df393736429005b417193d0841de1a0b74c24e7d139f99b",
+        "809cada9d10e3f4397ad8c3fe3a631827c0744f2e48d949521a46ddc93ad5f48",
+        "28a20e6d5b8e6edb4f183a1fdc4fe57f555b3ba0b585cfe3cb16ac0f0aed26d4",
+        "bb8c30188cd312252e9cd7617a0b6852e1ac4c434b86289a611c935165ac21fa"
+      ]
+    },
+    {
+      "id": "local-fe738ac9a8d1",
+      "sourceId": "imuncle-live2d",
+      "sourceRelativePath": "model/touma/touma.model.json",
+      "appearanceFingerprint": "0e7c68e9048341efbf4d42ec99eab0683213b74d802cbbe6c92a4bd0111b50ab",
+      "coreFingerprint": "a0ee894bb13f13ff428265adb61aacfdb49bc1b471f24269115f91ad6a413e82",
+      "textureFingerprints": [
+        "1fee013eab20a178a7b53a88006fabd196ee5dc0e73d4bd050c374f35b8de49e",
+        "2b3b9954b3dbb486278a6d92554598bc0b382f58c17d34c9797e96ab20706343"
+      ]
+    }
+  ]
+}

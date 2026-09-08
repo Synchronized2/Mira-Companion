@@ -51,3 +51,19 @@ Dependencies and exact resolved versions are recorded in `package-lock.json`.
 ## Earlier unselected material
 
 An early Ready Player Me model was downloaded for evaluation from `wass08/r3f-virtual-girlfriend-frontend` commit `c862eebbdbc269d3f6552b49b41065812010f316`. It is not part of the app runtime or production assets. Any retained local copy is under the ignored `artifacts/unselected/` directory. Its redistribution rights have not been established.
+
+## Audited duplicate collection
+
+- Repository: https://github.com/summerscar/live2dDemo
+- Inspected commit: `3bacc398746caff119793730d090fe399a3f4250`.
+- The repository contains no explicit license file.
+- Its 21 unique Live2D model binaries were compared by SHA-256 with Mira's existing collection and all were already present. Of 47 unique model/texture configurations, 41 matched existing resources exactly; the remaining six were alternate packages of the same named characters and identical model binaries.
+- No runtime model, texture, motion, code or screenshot was copied from this repository. The audit result is recorded in `shared/live2d-demo-import-report.json`.
+
+## Audited game-extracted collection
+
+- Repository: https://github.com/Eikanya/Live2d-model
+- Inspected commit: `94ae3e5628226726af96c6b4bf0e1ce5c728e28e`.
+- The repository has no LICENSE, COPYING or NOTICE file. Its README describes the models as generally extracted from games, warns that configurations may be incorrect, asks readers to pay attention to licenses and says not to use the material commercially.
+- The inspected tree contains 103,442 files, 4,928 model-binary paths and 3,577 potential model manifests across 23 top-level asset categories. These include resources extracted from multiple commercial games.
+- Public access to a repository does not grant permission to redistribute its contents. No model or other runtime resource was copied into Mira. The metadata-only audit is recorded in `shared/eikanya-live2d-model-audit.json`.

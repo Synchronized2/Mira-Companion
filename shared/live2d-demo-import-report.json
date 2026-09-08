@@ -1,0 +1,42 @@
+{
+  "source": "https://github.com/summerscar/live2dDemo",
+  "commit": "3bacc398746caff119793730d090fe399a3f4250",
+  "sourceAssetDirectories": 62,
+  "sourceModelManifests": 246,
+  "sourceUniqueModelBinaries": 21,
+  "sourceUniqueModelTextureConfigurations": 47,
+  "exactExistingConfigurations": 41,
+  "repackagedExistingConfigurations": [
+    {
+      "source": "assets/Bronya/Bronya.model.json",
+      "existing": "public/assets/characters/model/bronya/model.json"
+    },
+    {
+      "source": "assets/haru01/haru01.model.json",
+      "existing": "public/assets/characters/model/haru/haru_01.model.json"
+    },
+    {
+      "source": "assets/haru02/haru02.model.json",
+      "existing": "public/assets/characters/model/haru/haru_02.model.json"
+    },
+    {
+      "source": "assets/histoire/histoire.model.json",
+      "existing": "public/assets/characters/model/HyperdimensionNeptunia/histoire/index.json"
+    },
+    {
+      "source": "assets/shizuku/shizuku.model.json",
+      "existing": "public/assets/characters/model/shizuku/shizuku.model.json"
+    },
+    {
+      "source": "assets/wanko/wanko.model.json",
+      "existing": "public/assets/characters/model/wanko/wanko.model.json"
+    }
+  ],
+  "newUniqueModels": 0,
+  "imported": 0,
+  "deduplication": {
+    "exact": "SHA-256 of the referenced model binary and texture files",
+    "repackaged": "Same named character and identical model binary, with alternate compressed or packaged textures"
+  },
+  "license": "No explicit license file was present in the inspected repository; no files were redistributed from it."
+}

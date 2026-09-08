@@ -89,8 +89,15 @@ node tests/character-framing.mjs
 - `src/voice.ts`：语音播放、打断及音频到口型的连接。
 - `src/vendor/`：保留来源的 AIRI 口型模块和校准数据。
 - `src/App.tsx`：聊天、麦克风、模式和设置。
-- `server/`：本地模型代理、SSE 处理、Edge-TTS 及 Windows 语音。
+- `server/index.mjs`：进程入口，只负责读取运行模式并监听端口。
+- `server/app.mjs`：Express 应用工厂、本地访问策略和前端托管。
+- `server/api.mjs`：可注入依赖的 API 路由与会话内配置状态。
+- `server/chat.mjs` / `server/tts.mjs`：对话流解析、输入校验和语音合成。
+- `scripts/characters/import-core.mjs`：多来源模型发现、安全路径解析、稳定 ID、内容指纹和增量去重规划。
+- `scripts/characters/import-imuncle.mjs`：现有 imuncle 合集的来源适配器；根目录导入脚本只负责 CLI 调度。
+- `shared/character-sources.json`：形象来源名称和链接，界面不再硬编码来源判断。
 - `shared/voices.json`：前后端共用的精选音色列表。
+- `shared/*-audit.json`：外部模型集合的只读审计结果；未获再分发许可的素材不会进入运行资源。
 - `public/assets/hiyori/`：从 AIRI 配置的上游地址下载的示例人物。
 - `licenses/`：第三方授权文件。
 

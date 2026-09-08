@@ -1,0 +1,19 @@
+{
+  "source": "https://github.com/Eikanya/Live2d-model",
+  "commit": "94ae3e5628226726af96c6b4bf0e1ce5c728e28e",
+  "repositoryFiles": 103442,
+  "topLevelAssetCategories": 23,
+  "modelBinaryPaths": 4928,
+  "potentialModelManifests": 3577,
+  "standardModelManifests": {
+    "cubism2": 617,
+    "cubism3": 1388
+  },
+  "genericModelJsonPaths": 1572,
+  "license": {
+    "explicitLicenseFile": false,
+    "readmeSummary": "The repository describes the collection as generally extracted from games, asks users to pay attention to licenses, and says not to use it commercially."
+  },
+  "imported": 0,
+  "reason": "Public source availability is not a redistribution license. No model, texture, motion, audio, screenshot or runtime code from this repository was added to Mira."
+}
