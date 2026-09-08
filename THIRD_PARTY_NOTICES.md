@@ -60,6 +60,15 @@ An early Ready Player Me model was downloaded for evaluation from `wass08/r3f-vi
 - Its 21 unique Live2D model binaries were compared by SHA-256 with Mira's existing collection and all were already present. Of 47 unique model/texture configurations, 41 matched existing resources exactly; the remaining six were alternate packages of the same named characters and identical model binaries.
 - No runtime model, texture, motion, code or screenshot was copied from this repository. The audit result is recorded in `shared/live2d-demo-import-report.json`.
 
+## hacxy/l2d-models personal-use collection
+
+- Repository: https://github.com/hacxy/l2d-models
+- Inspected commit: `09e0df14ac8e7b29d170a57f4ce939f68d66197b`.
+- The repository has no standalone LICENSE file. Its package metadata says ISC, while its README states that the model files came from the internet, remain owned by their original authors or teams, are for reference and learning, and must not be used for commercial profit. The user confirmed this Mira deployment is for personal entertainment and not commercial use.
+- The upstream README is preserved unchanged at `licenses/hacxy-l2d-models-README.md`. Public availability and the package's code-license field do not grant unrestricted rights to the character artwork.
+- Of 45 valid model manifests, 22 exact appearances matched Mira's existing collection and were skipped by SHA-256 content fingerprints. Another manifest (`models/Ren/Ren.model3.json`) uses Cubism 6 moc3 data, which the bundled Cubism Core 5.0 cannot load, so it is recorded as incompatible and is not selectable. The remaining 22 distinct manifests and their required model, texture, motion, expression, pose and physics resources were imported under `public/assets/characters/`; bundled voice references were removed so they cannot override Mira TTS.
+- The reproducible import result is recorded in `shared/hacxy-l2d-models-import-report.json`.
+
 ## Audited game-extracted collection
 
 - Repository: https://github.com/Eikanya/Live2d-model

@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "import:characters": "node scripts/import-characters.mjs",
+    "import:hacxy": "node scripts/import-characters.mjs --source hacxy",
     "preview:characters": "node scripts/preview-characters.mjs",
     "test:characters": "node tests/characters.mjs",
     "setup:tts": "node scripts/setup-tts.mjs",

@@ -8,5 +8,10 @@
     "id": "imuncle-live2d",
     "name": "imuncle/live2d 用户导入合集",
     "url": "https://github.com/imuncle/live2d"
+  },
+  {
+    "id": "hacxy-l2d-models",
+    "name": "hacxy/l2d-models 个人学习合集",
+    "url": "https://github.com/hacxy/l2d-models"
   }
 ]

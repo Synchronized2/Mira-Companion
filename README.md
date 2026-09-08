@@ -68,20 +68,22 @@ node tests/voice-settings.mjs
 
 打开右上角「连接与偏好设置」→「形象」，可搜索、按分类筛选、查看缩略图和动态预览；点击「使用此形象」应用到聊天舞台。预览支持目光跟随和动作预览。动态预览使用独立 iframe 隔离 Cubism 的 WebGL 全局状态，关闭设置会释放预览，当前选择保存在浏览器中。形象与 TTS 音色独立，默认音色仍为 `zh-CN-XiaoxiaoNeural`。
 
-已从用户本地 `D:\github\live2d` 素材合集导入 250 个可用角色/服装配置，加上原来的日和，共 251 款。包含 Cubism 2 `.moc` 和 Cubism 3 `.moc3` 两代资源。仅按需加载选中的模型，完整资源已复制到项目，运行时不依赖源文件夹。1 份同目录重复配置已合并；圣路易斯「Tipsy Snow」在当前运行时始终透明，暂不列入可选库，原因保存在 `shared/character-exclusions.json`，原始素材未修改。不同模型支持的动作、表情和口型参数可能不同；素材没有的动作不会凭空生成。缺失的可选动作已剔除，模型原配语音已关闭，避免覆盖 TTS。
+当前共 273 款形象：原来的日和、从用户本地 `D:\github\live2d` 导入的 250 个角色/服装配置，以及从 `hacxy/l2d-models` 新增的 22 个配置。后一个来源另有 22 个配置与现有形象内容完全相同，已按模型二进制和纹理的 SHA-256 指纹跳过；Ren 使用当前 Core 无法读取的 Cubism 6 格式，已明确排除。包含 Cubism 2 `.moc` 和 Cubism 3 `.moc3` 两代资源。仅按需加载选中的模型，完整资源已复制到项目，运行时不依赖源文件夹。圣路易斯「Tipsy Snow」在当前运行时始终透明，暂不列入可选库，原因保存在 `shared/character-exclusions.json`，原始素材未修改。不同模型支持的动作、表情和口型参数可能不同；素材没有的动作不会凭空生成。缺失的可选动作已剔除，模型原配语音已关闭，避免覆盖 TTS。
 
 开发者重新导入和生成预览（先启动开发服务）：
 
 ```powershell
 node scripts/import-characters.mjs D:\github\live2d
+node scripts/import-characters.mjs D:\path\to\l2d-models --source hacxy
 node scripts/preview-characters.mjs
+node scripts/preview-characters.mjs --source hacxy-l2d-models
 node tests/characters.mjs
 node tests/character-framing.mjs
 ```
 
 导入器只读取模型数据，不执行合集中的页面脚本、不修改源目录；修复模型自身的根路径误写并跳过同目录重复配置。`shared/character-import-report.json` 记录缺失的可选资源，实际渲染检查记录在 `artifacts/character-render-report.json`。新增素材后需重新生成预览并构建。缩略图取自真实渲染，位于 `public/assets/character-previews/`。
 
-合集来源与非商用学习限制保存在 `licenses/live2d-collection-README.md`，人物版权归原作者/公司，详见 `THIRD_PARTY_NOTICES.md`。
+合集来源与非商用学习限制分别保存在 `licenses/live2d-collection-README.md` 和 `licenses/hacxy-l2d-models-README.md`，人物版权归原作者/公司，详见 `THIRD_PARTY_NOTICES.md`。
 
 ## 源码结构
 
@@ -94,7 +96,8 @@ node tests/character-framing.mjs
 - `server/api.mjs`：可注入依赖的 API 路由与会话内配置状态。
 - `server/chat.mjs` / `server/tts.mjs`：对话流解析、输入校验和语音合成。
 - `scripts/characters/import-core.mjs`：多来源模型发现、安全路径解析、稳定 ID、内容指纹和增量去重规划。
-- `scripts/characters/import-imuncle.mjs`：现有 imuncle 合集的来源适配器；根目录导入脚本只负责 CLI 调度。
+- `scripts/characters/import-imuncle.mjs`：共享导入流水线与现有 imuncle 来源适配器。
+- `scripts/characters/import-hacxy.mjs`：hacxy 来源元数据、报告及许可文件适配器。
 - `shared/character-sources.json`：形象来源名称和链接，界面不再硬编码来源判断。
 - `shared/voices.json`：前后端共用的精选音色列表。
 - `shared/*-audit.json`：外部模型集合的只读审计结果；未获再分发许可的素材不会进入运行资源。

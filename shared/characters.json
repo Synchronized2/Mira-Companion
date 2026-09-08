@@ -2257,5 +2257,203 @@
     "generation": 3,
     "url": "/assets/characters/live2d_3/model/Azue%20Lane(JP)/z46_2/z46_2.model3.json",
     "preview": "/assets/character-previews/local-23d4a69218d5.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-4e5439bce8f7",
+    "name": "abeikelongbi_3",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/abeikelongbi_3/abeikelongbi_3.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-4e5439bce8f7.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-8d28c0b35f25",
+    "name": "chino",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/chino/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-8d28c0b35f25.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-68ab616026f4",
+    "name": "Haru",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Haru/Haru.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-68ab616026f4.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-59e76ff0f2a9",
+    "name": "histoire",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/histoire/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-59e76ff0f2a9.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-bc879545841d",
+    "name": "Hiyori",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Hiyori/Hiyori.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-bc879545841d.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-72e628289929",
+    "name": "HK416-2-destroy",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/HK416-2-destroy/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-72e628289929.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-3443d7e558cb",
+    "name": "HK416-2-normal",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/HK416-2-normal/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-3443d7e558cb.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-514e76559656",
+    "name": "Kar98k-normal",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Kar98k-normal/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-514e76559656.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-e65b74f64392",
+    "name": "koharu",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/koharu/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-e65b74f64392.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-d5e20b8e69ef",
+    "name": "Mao",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Mao/Mao.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-d5e20b8e69ef.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-5ccff8b47908",
+    "name": "Mark",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Mark/Mark.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-5ccff8b47908.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-0e21773e5820",
+    "name": "Natori",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Natori/Natori.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-0e21773e5820.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-3438cd1bb6be",
+    "name": "Pio",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Pio/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-3438cd1bb6be.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-210d5415ece4",
+    "name": "potion-Maker-Pio",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/potion-Maker-Pio/index.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-210d5415ece4.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-be6f14e82aae",
+    "name": "rem_2",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/rem_2/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-be6f14e82aae.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-f93383dab0f7",
+    "name": "Rice",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Rice/Rice.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-f93383dab0f7.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-a84f7b102e36",
+    "name": "Senko_Normals · senko",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Senko_Normals/senko.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-a84f7b102e36.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-6c198635e7f2",
+    "name": "shizuku_48",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/shizuku_48/index.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-6c198635e7f2.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-8709f700267c",
+    "name": "shizuku_pajama",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/shizuku_pajama/index.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-8709f700267c.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-11260c956053",
+    "name": "uni",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/uni/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-11260c956053.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-48b359b44310",
+    "name": "Wanko",
+    "family": "碧蓝航线",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 3,
+    "url": "/assets/characters/l2d-models-615c42add339/models/Wanko/Wanko.model3.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-48b359b44310.png"
+  },
+  {
+    "id": "l2d-models-615c42add339-56492dfd0219",
+    "name": "xisitina",
+    "family": "收藏角色",
+    "sourceId": "hacxy-l2d-models",
+    "generation": 2,
+    "url": "/assets/characters/l2d-models-615c42add339/models/xisitina/model.json",
+    "preview": "/assets/character-previews/l2d-models-615c42add339-56492dfd0219.png"
   }
 ]

@@ -1,8 +1,8 @@
 * text=auto
 
 # Keep imported Live2D assets byte-for-byte across platforms.
-public/assets/characters/** -text
-public/assets/hiyori/** -text
+public/assets/characters/** -text -diff
+public/assets/hiyori/** -text -diff
 
 *.cmd text eol=crlf
 *.ps1 text eol=crlf

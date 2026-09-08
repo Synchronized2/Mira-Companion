@@ -12,8 +12,17 @@ import {
   resolveExistingResourceReference,
 } from './import-core.mjs';
 
-const SOURCE_ID = 'imuncle-live2d';
-const SOURCE_IDENTITY = 'https://github.com/imuncle/live2d';
+const IMUNCLE_SOURCE = {
+  id: 'imuncle-live2d',
+  identity: 'https://github.com/imuncle/live2d',
+  reportFile: 'character-import-report.json',
+  exclusionsFile: 'character-exclusions.json',
+  readableNamesFile: 'live2d_3/js/charData.js',
+  supportFiles: [
+    ['js/live2d.js', 'public/vendor/live2d-legacy.js'],
+    ['README.md', 'licenses/live2d-collection-README.md'],
+  ],
+};
 const HIYORI = { id: 'hiyori', name: '日和 · Hiyori', family: '默认角色', sourceId: 'live2d-hiyori', generation: 3, url: '/assets/hiyori/hiyori_pro_zh/runtime/hiyori_pro_t11.model3.json', preview: '/assets/character-previews/hiyori.png' };
 const toPosix = value => value.split(sep).join('/').replaceAll('\\', '/');
 const encodePath = value => value.split('/').map(encodeURIComponent).join('/');
@@ -72,8 +81,8 @@ function publicManifestPath(publicRoot, url) {
   return path;
 }
 
-function sourceRelativePath(character, sourceNamespaceId) {
-  if (character.sourceId !== SOURCE_ID || typeof character.url !== 'string') return undefined;
+function sourceRelativePath(character, sourceNamespaceId, sourceId) {
+  if (character.sourceId !== sourceId || typeof character.url !== 'string') return undefined;
   const legacyPrefix = '/assets/characters/';
   const namespacedPrefix = `${legacyPrefix}${sourceNamespaceId}/`;
   const encoded = character.url.startsWith(namespacedPrefix)
@@ -82,7 +91,7 @@ function sourceRelativePath(character, sourceNamespaceId) {
   return encoded ? decodeURIComponent(encoded).replaceAll('\\', '/') : undefined;
 }
 
-async function existingFingerprints(catalog, storedIndex, publicRoot, report, hashOptions, sourceNamespaceId) {
+async function existingFingerprints(catalog, storedIndex, publicRoot, report, hashOptions, sourceNamespaceId, sourceId) {
   const stored = new Map((storedIndex?.entries || storedIndex || []).map(entry => [entry.id, entry]));
   const entries = [];
   for (const character of catalog) {
@@ -91,7 +100,7 @@ async function existingFingerprints(catalog, storedIndex, publicRoot, report, ha
     try {
       const manifest = await readModelManifest(publicRoot, publicManifestPath(publicRoot, character.url));
       if (!manifest) throw new Error('Catalog URL is not a model manifest.');
-      entries.push({ id: character.id, sourceId: character.sourceId, sourceRelativePath: sourceRelativePath(character, sourceNamespaceId), ...await createAppearanceFingerprint(manifest, hashOptions) });
+      entries.push({ id: character.id, sourceId: character.sourceId, sourceRelativePath: sourceRelativePath(character, sourceNamespaceId, sourceId), ...await createAppearanceFingerprint(manifest, hashOptions) });
     } catch (error) {
       report.warnings.push(`catalog ${character.id}: ${error instanceof Error ? error.message : String(error)}`);
     }
@@ -99,7 +108,7 @@ async function existingFingerprints(catalog, storedIndex, publicRoot, report, ha
   return entries;
 }
 
-function characterDetails(manifest, readableNames, sourceNamespaceId, existingByPath) {
+function characterDetails(manifest, readableNames, sourceNamespaceId, sourceId, existingByPath) {
   const directory = dirname(manifest.manifestPath);
   const folder = basename(directory);
   const stem = basename(manifest.manifestPath, '.json').replace(/\.model3?$/, '');
@@ -113,8 +122,8 @@ function characterDetails(manifest, readableNames, sourceNamespaceId, existingBy
   return {
     id,
     legacyOutput: Boolean(previous && !previous.url.includes(`/${sourceNamespaceId}/`)),
-    catalog: previous ? { ...previous, name, family, sourceId: SOURCE_ID, generation: manifest.generation } : {
-      id, name, family, sourceId: SOURCE_ID, generation: manifest.generation,
+    catalog: previous ? { ...previous, name, family, sourceId, generation: manifest.generation } : {
+      id, name, family, sourceId, generation: manifest.generation,
       url: `/assets/characters/${sourceNamespaceId}/${encodePath(manifest.relativePath)}`,
       preview: `/assets/character-previews/${id}.png`,
     },
@@ -178,7 +187,7 @@ function optionsFrom(value) {
 }
 
 // Import data only. Never execute scripts or change files in the source collection.
-export async function importImuncleCollection(value) {
+export async function importLive2dCollection(value, sourceOptions = IMUNCLE_SOURCE) {
   const options = optionsFrom(value);
   const source = resolve(options.sourcePath || 'D:/github/live2d');
   const root = options.projectRoot ? resolve(options.projectRoot) : resolve(import.meta.dirname, '../..');
@@ -186,23 +195,31 @@ export async function importImuncleCollection(value) {
   const destination = resolve(publicRoot, 'assets/characters');
   const shared = resolve(root, 'shared');
   const catalogPath = resolve(shared, 'characters.json');
-  const reportPath = resolve(shared, 'character-import-report.json');
+  const reportPath = resolve(shared, sourceOptions.reportFile);
   const indexPath = resolve(shared, 'character-import-index.json');
-  const exclusions = await readJson(resolve(shared, 'character-exclusions.json'), {});
-  const catalog = await readJson(catalogPath, [HIYORI]);
+  const exclusions = sourceOptions.exclusionsFile
+    ? await readJson(resolve(shared, sourceOptions.exclusionsFile), {})
+    : {};
   const storedIndex = await readJson(indexPath, { version: 1, entries: [] });
-  const report = { sourceId: SOURCE_ID, imported: 0, retained: catalog.length, duplicates: [], rejected: [], warnings: [] };
-  const sourceNamespaceId = createSourceNamespaceId(SOURCE_IDENTITY);
+  const storedEntries = storedIndex?.entries || storedIndex || [];
+  const excludedIds = new Set(storedEntries
+    .filter(entry => entry.sourceId === sourceOptions.id && exclusions[entry.sourceRelativePath])
+    .map(entry => entry.id));
+  const catalog = (await readJson(catalogPath, [HIYORI])).filter(character => !excludedIds.has(character.id));
+  const report = { sourceId: sourceOptions.id, imported: 0, retained: catalog.length, duplicates: [], rejected: [], warnings: [] };
+  const sourceNamespaceId = createSourceNamespaceId(sourceOptions.identity);
   const hashOptions = { fileHashCache: new Map() };
 
-  const existing = await existingFingerprints(catalog, storedIndex, publicRoot, report, hashOptions, sourceNamespaceId);
+  const existing = await existingFingerprints(catalog, storedIndex, publicRoot, report, hashOptions, sourceNamespaceId, sourceOptions.id);
   const catalogById = new Map(catalog.map(character => [character.id, character]));
-  const existingByPath = new Map(existing.filter(entry => entry.sourceId === SOURCE_ID && entry.sourceRelativePath).map(entry => [entry.sourceRelativePath, catalogById.get(entry.id)]));
+  const existingByPath = new Map(existing.filter(entry => entry.sourceId === sourceOptions.id && entry.sourceRelativePath).map(entry => [entry.sourceRelativePath, catalogById.get(entry.id)]));
   const readableNames = {};
-  try {
-    const names = await readFile(resolve(source, 'live2d_3/js/charData.js'), 'utf8');
-    for (const match of names.matchAll(/"([^"]+)"\s*:\s*"([^"]+)"/g)) readableNames[basename(match[2])] = match[1];
-  } catch (error) { if (error?.code !== 'ENOENT') throw error; }
+  if (sourceOptions.readableNamesFile) {
+    try {
+      const names = await readFile(resolve(source, sourceOptions.readableNamesFile), 'utf8');
+      for (const match of names.matchAll(/"([^"]+)"\s*:\s*"([^"]+)"/g)) readableNames[basename(match[2])] = match[1];
+    } catch (error) { if (error?.code !== 'ENOENT') throw error; }
+  }
 
   const discovered = await discoverModelManifests(source, { prepareData: prepareImuncleData });
   report.rejected.push(...discovered.rejected.filter(item => !exclusions[item.file]));
@@ -210,8 +227,8 @@ export async function importImuncleCollection(value) {
   const candidates = [];
   for (const manifest of discovered.manifests) {
     if (exclusions[manifest.relativePath]) continue;
-    const details = characterDetails(manifest, readableNames, sourceNamespaceId, existingByPath);
-    candidates.push({ ...details, sourceId: SOURCE_ID, sourceNamespaceId, sourceRelativePath: manifest.relativePath, relativePath: manifest.relativePath, manifest, ...await createAppearanceFingerprint(manifest, hashOptions) });
+    const details = characterDetails(manifest, readableNames, sourceNamespaceId, sourceOptions.id, existingByPath);
+    candidates.push({ ...details, sourceId: sourceOptions.id, sourceNamespaceId, sourceRelativePath: manifest.relativePath, relativePath: manifest.relativePath, manifest, ...await createAppearanceFingerprint(manifest, hashOptions) });
   }
 
   const plan = planIncrementalImport(existing, candidates);
@@ -234,8 +251,9 @@ export async function importImuncleCollection(value) {
   const nextIndex = [...indexById.values()].filter(entry => catalogById.has(entry.id)).sort((left, right) => left.id.localeCompare(right.id, 'en'));
 
   if (options.copySupportFiles !== false) {
-    await atomicCopy(resolve(source, 'js/live2d.js'), resolve(root, 'public/vendor/live2d-legacy.js'));
-    await atomicCopy(resolve(source, 'README.md'), resolve(root, 'licenses/live2d-collection-README.md'));
+    for (const [sourceFile, targetFile] of sourceOptions.supportFiles || []) {
+      await atomicCopy(resolve(source, sourceFile), resolve(root, targetFile));
+    }
   }
   await atomicWrite(indexPath, `${JSON.stringify({ version: 1, entries: nextIndex }, null, 2)}\n`);
   await atomicWrite(catalogPath, `${JSON.stringify(nextCatalog, null, 2)}\n`);
@@ -243,4 +261,8 @@ export async function importImuncleCollection(value) {
   const summary = { ...report, warnings: report.warnings.length, catalog: nextCatalog.length, copiedFiles };
   console.log(JSON.stringify(summary, null, 2));
   return summary;
+}
+
+export function importImuncleCollection(value) {
+  return importLive2dCollection(value, IMUNCLE_SOURCE);
 }

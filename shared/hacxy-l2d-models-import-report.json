@@ -1,0 +1,102 @@
+{
+  "sourceId": "hacxy-l2d-models",
+  "imported": 0,
+  "retained": 273,
+  "duplicates": [
+    {
+      "file": "models/bilibili-22/index.json",
+      "duplicateOf": "local-02096e690052"
+    },
+    {
+      "file": "models/bilibili-33/index.json",
+      "duplicateOf": "local-fb396eefe0ff"
+    },
+    {
+      "file": "models/cat-black/model.json",
+      "duplicateOf": "local-f37929291b95"
+    },
+    {
+      "file": "models/cat-white/model.json",
+      "duplicateOf": "local-38419e1e9118"
+    },
+    {
+      "file": "models/date/model.json",
+      "duplicateOf": "local-92b10c8ca50c"
+    },
+    {
+      "file": "models/hallo/model.json",
+      "duplicateOf": "local-add456e3403a"
+    },
+    {
+      "file": "models/haruto/haruto.model.json",
+      "duplicateOf": "local-53024b6a2bd2"
+    },
+    {
+      "file": "models/hibiki/hibiki.model.json",
+      "duplicateOf": "local-062d30802d76"
+    },
+    {
+      "file": "models/HK416-1-normal/model.json",
+      "duplicateOf": "local-07a4fc0a07a8"
+    },
+    {
+      "file": "models/kobayaxi/model.json",
+      "duplicateOf": "local-85cdafe8a733"
+    },
+    {
+      "file": "models/kp31/model.json",
+      "duplicateOf": "local-a96bf51b7f95"
+    },
+    {
+      "file": "models/live_uu/model_usb.json",
+      "duplicateOf": "local-87cfa88dd7cf"
+    },
+    {
+      "file": "models/live_uu/model.json",
+      "duplicateOf": "local-87cfa88dd7cf"
+    },
+    {
+      "file": "models/mai/model.json",
+      "duplicateOf": "local-cfa1c78faed4"
+    },
+    {
+      "file": "models/murakumo/model.json",
+      "duplicateOf": "local-6b1abdd188d6"
+    },
+    {
+      "file": "models/rem/model.json",
+      "duplicateOf": "local-7811427e85fe"
+    },
+    {
+      "file": "models/shizuku/shizuku.model.json",
+      "duplicateOf": "local-00c9d7630bfd"
+    },
+    {
+      "file": "models/terisa/model.json",
+      "duplicateOf": "local-b17d1847dc17"
+    },
+    {
+      "file": "models/tia/model.json",
+      "duplicateOf": "local-466bb04075ab"
+    },
+    {
+      "file": "models/umaru/model.json",
+      "duplicateOf": "local-cfa1c78faed4"
+    },
+    {
+      "file": "models/wed_16/wed_16.model.json",
+      "duplicateOf": "local-458a7ca9f38c"
+    },
+    {
+      "file": "models/z16/z16.model.json",
+      "duplicateOf": "local-90fde350200d"
+    }
+  ],
+  "rejected": [
+    {
+      "file": "models/Ren/Ren.model3.json",
+      "reason": "该文件使用 Cubism 6 moc3 格式，Mira 当前 Cubism Core 5.0 无法加载（csmReviveMocInPlace: unsupported moc3 version 6）。"
+    }
+  ],
+  "warnings": []
+}

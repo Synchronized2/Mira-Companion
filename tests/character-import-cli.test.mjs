@@ -89,3 +89,34 @@ test('CLI imports incrementally with source isolation, cross-source dedupe and r
   assert.equal(await readFile(indexPath, 'utf8'), firstIndexText);
   assert.equal((await readJson(reportPath)).imported, 0);
 });
+
+test('CLI selects the hacxy adapter, normalizes root paths and preserves its terms', async t => {
+  const temporary = await mkdtemp(resolve(tmpdir(), 'mira-hacxy-import-cli-'));
+  t.after(() => rm(temporary, { recursive: true, force: true }));
+  const source = resolve(temporary, 'source');
+  const project = resolve(temporary, 'project');
+
+  await put(resolve(project, 'shared/characters.json'), '[]');
+  await put(resolve(project, 'shared/character-import-index.json'), JSON.stringify({ version: 1, entries: [] }));
+  await put(resolve(source, 'README.md'), 'personal learning only');
+  await put(resolve(source, 'models/avatar/model.moc'), 'hacxy-core');
+  await put(resolve(source, 'models/avatar/texture.png'), 'hacxy-texture');
+  await put(resolve(source, 'models/avatar/model.json'), JSON.stringify({
+    model: '/model.moc', textures: ['/texture.png'],
+  }));
+
+  await execute(process.execPath, [
+    resolve(repositoryRoot, 'scripts/import-characters.mjs'), source,
+    '--source', 'hacxy', '--project-root', project,
+  ], { cwd: repositoryRoot });
+
+  const catalog = await readJson(resolve(project, 'shared/characters.json'));
+  assert.equal(catalog.length, 1);
+  assert.equal(catalog[0].sourceId, 'hacxy-l2d-models');
+  assert.ok(catalog[0].url.startsWith(`/assets/characters/${createSourceNamespaceId('https://github.com/hacxy/l2d-models')}/`));
+  const manifest = await readJson(resolve(project, 'public', decodeURIComponent(catalog[0].url.slice(1))));
+  assert.equal(manifest.model, 'model.moc');
+  assert.equal(manifest.textures[0], 'texture.png');
+  assert.equal((await readJson(resolve(project, 'shared/hacxy-l2d-models-import-report.json'))).imported, 1);
+  assert.equal(await readFile(resolve(project, 'licenses/hacxy-l2d-models-README.md'), 'utf8'), 'personal learning only');
+});
